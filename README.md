@@ -1,7 +1,7 @@
 
 # Hello,
 
-<img align="right" width="200" alt="Cool Phone Stand made of rocks" src="assets/shryasbhurat.jpeg">
+<img align="right" width="200" alt="Shryas Bhurat Portrait" src="assets/shryasbhurat.jpeg">
 
 I'm **Shryas Bhurat**, an **Engineer**, **Designer**, & **Entrepreneur**.
 
@@ -48,18 +48,51 @@ I am dedicated to leveraging these opportunities at MDes:
 
 ---------------------------------------------------------------------------------------------------------
 
-# Week 1: Example Report 1 #
+# Week 1: Personalizing My New Berkeley Home #
 ## Week of 09/05/2024
 
-This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
+After moving to Berkeley, I have moved to a new home and wanted to make it more personal space, hence this week I worked on mini projects for my study table and home.
 
-<img width="200" alt="Cool Phone Stand made of rocks" src="assets/exampleimg.png">
+## DIY Projects
+
+### Cool Pencil Stand
+
+I made a cool pencil stand to organize my writing tools and add a unique touch to my study area. This custom-made stand not only serves a practical purpose but also reflects my personal style.
+
+<img width="200" alt="Cool Pencil Stand" src="assets/holdercad.jpeg">
+
+<img width="200" alt="Cool Pencil Stand" src="assets/holdercad2.jpeg">
+
+<img width="200" alt="Cool Pencil Stand" src="assets/holder printing.jpeg">
+
+
+### Custom Keychain
+
+For my new home keys, I created a custom keychain. This personalized accessory helps me easily identify my house keys and adds a bit of flair to my everyday items.
+
+<img width="200" alt="Custom Keychain" src="assets/keychain printing.jpeg">
+
+<img width="200" alt="Custom Keychain" src="assets/keychain printing 2.jpeg">
+
+<img width="200" alt="Custom Keychain" src="assets/keychain.jpeg">
+
+
+### Cal Logo for My Table
+
+To show my connection to my new academic community, I made a Cal Logo for my table. This decorative piece proudly displays my affiliation with the University of California, Berkeley, and adds a touch of school spirit to my study space.
+
+<img width="200" alt="Cal Logo for My Table" src="assets/Cal.jpeg">
+
+<img width="200" alt="Cal Logo for My Table" src="assets/cal cutting.jpeg">
+
+## Impact
+
+These DIY projects have helped me transform my new living space into a more personalized environment. By adding these custom touches, I've begun to make my new Berkeley home feel more like my own.
+
+<img width="200" alt="Study Table" src="assets/Study Table.jpeg">
+
 
 ---
-
-
-
-
 
 ## Quick Links ##
 
