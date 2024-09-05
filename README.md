@@ -61,8 +61,9 @@ I made a cool pencil stand to organize my writing tools and add a unique touch t
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="32%" alt="Cool Pencil Stand" src="assets/holdercad.jpeg">
-    <img width="32%" alt="Cool Pencil Stand" src="assets/holdercad2.jpeg">
     <img width="32%" alt="Cool Pencil Stand" src="assets/holder printing.jpeg">
+    <img width="32%" alt="Cool Pencil Stand" src="assets/Holder Picture">
+
 </div>
 
 
@@ -82,15 +83,16 @@ For my new home keys, I created a custom keychain. This personalized accessory h
 To show my connection to my new academic community, I made a Cal Logo for my table. This decorative piece proudly displays my affiliation with the University of California, Berkeley, and adds a touch of school spirit to my study space.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img width="32%" alt="Cal Logo for My Table" src="assets/Cal.jpeg">
     <img width="32%" alt="Cal Logo for My Table" src="assets/cal cutting.jpeg">
+    <img width="32%" alt="Cal Logo for My Table" src="assets/Cal.jpeg">
+
 </div>
 
 ## Impact
 
 These DIY projects have helped me transform my new living space into a more personalized environment. By adding these custom touches, I've begun to make my new Berkeley home feel more like my own.
 
-<img width="400" alt="Study Table" src="assets/Study Table">
+<img width="600" alt="Study Table" src="assets/Study Table">
 
 
 ---
