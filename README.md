@@ -50,7 +50,7 @@ I am dedicated to leveraging these opportunities at MDes:
 # Week 1: Personalizing My New Berkeley Home #
 ## Week of 09/05/2024
 
-After moving to Berkeley, I have moved to a new home and wanted to make it more personal space, hence this week I worked on mini projects for my study table and home.
+After moving to Berkeley, I moved to a new home and wanted to make it more personal space, hence this week I worked on mini projects for my study table and home.
 
 ## DIY Projects
 
@@ -95,6 +95,17 @@ In the future, I will try to merge technology tools to build something that can 
 
 <img width="600" alt="Study Table" src="assets/Study Table">
 
+PS: Golden Gate, Robot making a picture
+
+<video width="640" height="360" controls>
+  <source src="assets/GoldenGate.MOV" type="video/quicktime">
+  Your browser does not support the video tag.
+</video>
+
+<video width="640" height="360" controls>
+  <source src="assets/RobotPicture-2.mov" type="video/quicktime">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
