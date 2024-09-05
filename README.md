@@ -1,4 +1,4 @@
-
+<span style="background-color: #E6F3FF; padding: 2px 4px; border-radius: 4px;">
 # Hello,
 
 <img align="right" width="200" alt="Shryas Bhurat Portrait" src="assets/shryasbhurat.jpeg">
@@ -102,3 +102,5 @@ These DIY projects have helped me transform my new living space into a more pers
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
 - [Google Drive Folder](https://drive.google.com/drive/u/0/folders/1DJ1b6sSDwHXX6NRcQYt10ivyQSgU0ND6) - slides and other resources
 - [bCourses](https://bcourses.berkeley.edu/courses/1537533) - where the grading happens
+
+</span>
