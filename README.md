@@ -1,5 +1,14 @@
-# Hello DES INV 202 Student!
-Welcome to your new GitHub repository! 
+# Hello,
+
+I'm an **Shryas Bhurat**, **Engineer**, **Designer**, & **Entrepreneur**.
+
+Incredibly passionate about merging:
+- Science
+- Design
+- Technology
+- Entrepreneurship
+
+To improve the quality of life on our Planet.
 
 # Outline
 [week 1](README.md#week-1-example-report-1)
