@@ -95,12 +95,7 @@ In the future, I will try to merge technology tools to build something that can 
 
 <img width="600" alt="Study Table" src="assets/Study Table">
 
-PS: Some cool things that I did last week, Golden Gate Visit, Robot making a picture
-
-![Golden Gate Video](assets/GoldenGate.mov)
-
-![Robot Picture Video](assets/RobotPicture-2.mov)
-
+PS: Some cool things that I did last week, Golden Gate Visit, a Robot making a picture!
 ---
 
 ## Quick Links ##
