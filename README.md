@@ -89,7 +89,7 @@ To show my connection to my new academic community, I made a Cal Logo for my tab
 
 These DIY projects have helped me transform my new living space into a more personalized environment. By adding these custom touches, I've begun to make my new Berkeley home feel more like my own.
 
-<img width="200" alt="Study Table" src="assets/Study Table.jpeg">
+<img width="200" alt="Study Table" src="assets/Study Table">
 
 
 ---
