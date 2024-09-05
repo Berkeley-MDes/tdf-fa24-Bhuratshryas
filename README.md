@@ -56,7 +56,7 @@ After moving to Berkeley, I have moved to a new home and wanted to make it more 
 
 ### Cool Pencil Stand
 
-I made a cool pencil stand to organize my writing tools and add a unique touch to my study area. This custom-made stand not only serves a practical purpose but also reflects my personal style.
+I made a cool pencil stand to organize my writing tools and add a unique touch to my study area. This custom-made stand not only serves a practical purpose but also reflects my style using 3D Printing.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="32%" alt="Cool Pencil Stand" src="assets/holdercad.jpeg">
@@ -68,7 +68,7 @@ I made a cool pencil stand to organize my writing tools and add a unique touch t
 
 ### Custom Keychain
 
-For my new home keys, I created a custom keychain. This personalized accessory helps me easily identify my house keys and adds a bit of flair to my everyday items.
+For my new home keys, I created a custom keychain. This personalized accessory helps me easily identify my house keys and adds a bit of flair to my everyday items using 3D Printing.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="32%" alt="Custom Keychain" src="assets/keychain printing.jpeg">
@@ -79,7 +79,7 @@ For my new home keys, I created a custom keychain. This personalized accessory h
 
 ### Cal Logo for My Table
 
-To show my connection to my new academic community, I made a Cal Logo for my table. This decorative piece proudly displays my affiliation with the University of California, Berkeley, and adds a touch of school spirit to my study space.
+To show my connection to my new academic community, I made a Cal Logo for my table. This decorative piece proudly displays my affiliation with the University of California, Berkeley, and adds a touch of school spirit to my study space using Laser Cutting.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="32%" alt="Cal Logo for My Table" src="assets/cal cutting.jpeg">
@@ -90,6 +90,8 @@ To show my connection to my new academic community, I made a Cal Logo for my tab
 ## Impact
 
 These DIY projects have helped me transform my new living space into a more personalized environment. By adding these custom touches, I've begun to make my new Berkeley home feel more like my own.
+
+In the future, I will try to merge technology tools to build something that can solve my problems in the quickest way possible.
 
 <img width="600" alt="Study Table" src="assets/Study Table">
 
