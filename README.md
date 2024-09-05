@@ -1,9 +1,3 @@
-<style>
-body {
-  background-color: #1E2A45;
-  color: #FFFFFF;
-}
-</style>
 
 # Hello,
 
