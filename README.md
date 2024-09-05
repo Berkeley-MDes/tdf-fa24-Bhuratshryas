@@ -10,6 +10,9 @@ Incredibly passionate about merging:
 
 To improve the quality of life on our Planet.
 
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/shryasbhurat.jpeg">
+
+
 # Outline
 [week 1](README.md#week-1-example-report-1)
 
