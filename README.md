@@ -15,7 +15,7 @@ To improve the quality of life on our Planet.
 
 
 # TDF Weekly Progress
-[week 1](README.md#Week-1:-Personalizing-My-New-Berkeley-Home)
+[week 1](README.md#week-1-personalizing-my-new-berkeley-home)
 
 ---
 # About Me
