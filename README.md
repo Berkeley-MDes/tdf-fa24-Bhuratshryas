@@ -70,11 +70,11 @@ I made a cool pencil stand to organize my writing tools and add a unique touch t
 
 For my new home keys, I created a custom keychain. This personalized accessory helps me easily identify my house keys and adds a bit of flair to my everyday items.
 
-<img width="200" alt="Custom Keychain" src="assets/keychain printing.jpeg">
-
-<img width="200" alt="Custom Keychain" src="assets/keychain printing 2.jpeg">
-
-<img width="200" alt="Custom Keychain" src="assets/keychain.jpeg">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="32%" alt="Custom Keychain" src="assets/keychain printing.jpeg">
+    <img width="32%" alt="Custom Keychain" src="assets/keychain printing 2.jpeg">
+    <img width="32%" alt="Custom Keychain" src="assets/keychain.jpeg">
+</div>
 
 
 ### Cal Logo for My Table
