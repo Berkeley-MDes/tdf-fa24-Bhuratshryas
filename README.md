@@ -97,15 +97,9 @@ In the future, I will try to merge technology tools to build something that can 
 
 PS: Golden Gate, Robot making a picture
 
-<video width="640" height="360" controls>
-  <source src="assets/GoldenGate.MOV" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
+![Golden Gate Video](assets/GoldenGate.mov)
 
-<video width="640" height="360" controls>
-  <source src="assets/RobotPicture-2.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
+![Robot Picture Video](assets/RobotPicture-2.mov)
 
 ---
 
