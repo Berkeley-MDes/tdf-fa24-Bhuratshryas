@@ -1,6 +1,8 @@
 # Hello,
 
-I'm an **Shryas Bhurat**, **Engineer**, **Designer**, & **Entrepreneur**.
+<img align="right" width="200" alt="Cool Phone Stand made of rocks" src="assets/shryasbhurat.jpeg">
+
+I'm **Shryas Bhurat**, an **Engineer**, **Designer**, & **Entrepreneur**.
 
 Incredibly passionate about merging:
 - Science
@@ -9,8 +11,6 @@ Incredibly passionate about merging:
 - Entrepreneurship
 
 To improve the quality of life on our Planet.
-
-<img width="200" alt="Cool Phone Stand made of rocks" src="assets/shryasbhurat.jpeg">
 
 
 # Outline
