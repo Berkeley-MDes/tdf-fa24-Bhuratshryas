@@ -22,7 +22,7 @@ To improve the quality of life on our Planet.
 # Week 2: Making a phone stand using Rhino #
 ## Week of 09/07/2024
 
-Rhino seems like an interesting software to build things as it is parametric and things can be edited quite quickly because of this. I wanted to make the phone stand for my own phone dimensions so that I can keep it comfortably on my study table.
+Rhino seems like an interesting software to build things as it is parametric and things can be edited quite quickly because of this. I wanted to make the phone stand for my phone dimensions so that I could keep it comfortably on my study table.
 
 Here's how it went like:
 
@@ -39,11 +39,12 @@ However, it did not work at the first instant as the base thickness was limited 
     <img width="32%" alt="Custom Keychain" src="assets/Assemnotgood.png">
 </div>
 
-It worked, the phone was more stable and I could bake the results instantly.
+It worked, the phone was more stable and I could bake the results instantly & then I tried to replace the base with a cylinder.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="32%" alt="Custom Keychain" src="assets/Assemgood.png">
     <img width="32%" alt="Custom Keychain" src="assets/phonestand3dprinted.png">
+     <img width="32%" alt="Custom Keychain" src="assets/Cylinderinsteadofsphere.png">
 </div>
 
 They then created a 3D file to print the output so that I could use it.
