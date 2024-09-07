@@ -15,11 +15,13 @@ To improve the quality of life on our Planet.
 
 # TDF Weekly Progress
 [week 1](README.md#week-1-personalizing-my-new-berkeley-home)
+[week 2](README.md#week-1-personalizing-my-new-berkeley-home)
+
 
 ---
 # About Me
 
-My underlying motivation has consistently been a commitment to making a meaningful impact on the lives of those around me. This commitment has taken me from the realm of social entrepreneurship to deep technology missions building satellites, always driven by the pursuit of meaningful work.
+My underlying motivation has consistently been a commitment to making a meaningful impact on the lives of those around me. This commitment has taken me from social entrepreneurship to deep technology missions building satellites, always driven by the pursuit of meaningful work.
 
 My professional interests lie at the intersection of:
 - Science
@@ -47,6 +49,14 @@ I am dedicated to leveraging these opportunities at MDes:
 
 ---------------------------------------------------------------------------------------------------------
 
+# Week 2: Making a phone stand using Rhino #
+## Week of 09/07/2024
+
+Rhino seems like an interesting software to build things as it is parametric and things can be edited quite quickly because of this.
+
+
+---------------------------------------------------------------------------------------------------------
+
 # Week 1: Personalizing My New Berkeley Home #
 ## Week of 09/05/2024
 
@@ -56,7 +66,7 @@ After moving to Berkeley, I moved to a new home and wanted to make it more perso
 
 ### Cool Pencil Stand
 
-I made a cool pencil stand to organize my writing tools and add a unique touch to my study area. This custom-made stand not only serves a practical purpose but also reflects my style using 3D Printing.
+I made a cool pencil stand to organize my writing tools and add a unique touch to my study area. This custom-made stand serves a practical purpose and reflects my style using 3D Printing.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="32%" alt="Cool Pencil Stand" src="assets/holdercad.jpeg">
@@ -79,7 +89,7 @@ For my new home keys, I created a custom keychain. This personalized accessory h
 
 ### Cal Logo for My Table
 
-To show my connection to my new academic community, I made a Cal Logo for my table. This decorative piece proudly displays my affiliation with the University of California, Berkeley, and adds a touch of school spirit to my study space using Laser Cutting.
+I made a Cal Logo for my table to show my connection to my new academic community. This decorative piece proudly displays my affiliation with the University of California, Berkeley, and adds a touch of school spirit to my study space using Laser Cutting.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="32%" alt="Cal Logo for My Table" src="assets/cal cutting.jpeg">
@@ -95,7 +105,6 @@ In the future, I will try to merge technology tools to build something that can 
 
 <img width="600" alt="Study Table" src="assets/Study Table">
 
-PS: Some cool things that I did last week, Golden Gate Visit, a Robot making a picture!
 ---
 
 ## Quick Links ##
