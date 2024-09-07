@@ -14,7 +14,7 @@ To improve the quality of life on our Planet.
 
 
 # TDF Weekly Progress
-[week 1](README.md#week-1-personalizing-my-new-berkeley-home)
+[week 1](README.md#week-1-personalizing-my-new-berkeley-home) , 
 [week 2](README.md#week-2-making-a-phone-stand-using-Rhino) 
 
 
@@ -52,7 +52,38 @@ I am dedicated to leveraging these opportunities at MDes:
 # Week 2: Making a phone stand using Rhino #
 ## Week of 09/07/2024
 
-Rhino seems like an interesting software to build things as it is parametric and things can be edited quite quickly because of this.
+Rhino seems like an interesting software to build things as it is parametric and things can be edited quite quickly because of this. I wanted to make the phone stand for my own phone dimensions so that I can keep it comfortably on my study table.
+
+Here's how it went like:
+
+I tried to edit the parameters to the iPhone XR dimensions
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="32%" alt="Custom Keychain" src="assets/Param1.png">
+    <img width="32%" alt="Custom Keychain" src="assets/Param.png">
+</div>
+
+However, it did not work at the first instant as the base thickness was limited and the CG was going outside the stability criteria, I hence had to change the angle of the phone to make it more stable.
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="32%" alt="Custom Keychain" src="assets/Sizedifference.png">
+    <img width="32%" alt="Custom Keychain" src="assets/Assemnotgood.png">
+</div>
+
+It worked, the phone was more stable and I could bake the results instantly.
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="32%" alt="Custom Keychain" src="assets/Assemgood.png">
+    <img width="32%" alt="Custom Keychain" src="assets/phonestand3dprinted.png">
+</div>
+
+They then created a 3D file to print the output so that I could use it.
+
+
+
+
+
+
+
 
 
 ---------------------------------------------------------------------------------------------------------
