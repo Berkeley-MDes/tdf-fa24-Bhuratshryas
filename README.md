@@ -17,36 +17,6 @@ To improve the quality of life on our Planet.
 [week 1](README.md#week-1-personalizing-my-new-berkeley-home) , 
 [week 2](README.md#week-2-making-a-phone-stand-using-Rhino) 
 
-
----
-# About Me
-
-My underlying motivation has consistently been a commitment to making a meaningful impact on the lives of those around me. This commitment has taken me from social entrepreneurship to deep technology missions building satellites, always driven by the pursuit of meaningful work.
-
-My professional interests lie at the intersection of:
-- Science
-- Technology
-- Entrepreneurship
-
-I derive great satisfaction from experimentation and the creation of innovative solutions. My approach is characterized by:
-
-- Deep curiosity
-- Exploration of a wide range of subjects and research areas
-- Enhancement of critical thinking skills
-- Development of solutions contributing to the efficiency and well-being of life on our planet
-
-Beyond my professional endeavors, I'm passionate about:
-
-- Immersing myself in different cultures
-- Engaging in introspection while traveling, particularly in natural environments
-
-I am dedicated to leveraging these opportunities at MDes:
-- Insights from psychology
-- People-centered design principles
-- Effective problem-solving techniques
-
-**Mission**: To address the most pressing challenges of this decade.
-
 ---------------------------------------------------------------------------------------------------------
 
 # Week 2: Making a phone stand using Rhino #
