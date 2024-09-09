@@ -26,6 +26,13 @@ Rhino seems like an interesting software to build things as it is parametric and
 
 Here's how it went like:
 
+My Understanding on Parametric Modeling
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="Custom Keychain" src="assets/Rhino Modelling.png">
+</div>
+
+
 I tried to edit the parameters to the iPhone XR dimensions
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="32%" alt="Custom Keychain" src="assets/Param1.png">
