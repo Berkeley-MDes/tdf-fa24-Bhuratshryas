@@ -19,7 +19,7 @@ To improve the quality of life on our Planet.
 
 ---------------------------------------------------------------------------------------------------------
 
-# Week 2: Making a phone stand using Rhino #
+# Week 2: Exploring Rhino, Grasshopper and 3D Printing this week #
 ## Week of 09/07/2024
 
 Rhino seems like an interesting software to build things as it is parametric and things can be edited quite quickly because of this. I wanted to make the phone stand for my phone dimensions so that I could keep it comfortably on my study table.
