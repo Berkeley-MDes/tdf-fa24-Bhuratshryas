@@ -56,7 +56,15 @@ It worked, the phone was more stable and I could bake the results instantly & th
 
 They then created a 3D file to print the output so that I could use it.
 
+I also tried to make a model from scratch using Grasshopper, to keep things near my bed sorted.
 
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="32%" alt="Custom Keychain" src="assets/TableOnRhino.png">
+    <img width="32%" alt="Custom Keychain" src="assets/3DPrintingtable.png">
+     <img width="32%" alt="Custom Keychain" src="assets/Printingonthetable.jpeg">
+</div>
+
+It was fun to play with parameters and very quick iterations.
 
 
 
