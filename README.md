@@ -61,7 +61,7 @@ I also tried to make a model from scratch using Grasshopper, to keep things near
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="32%" alt="Custom Keychain" src="assets/TableOnRhino.png">
     <img width="32%" alt="Custom Keychain" src="assets/3DPrintingtable.png">
-     <img width="32%" alt="Custom Keychain" src="assets/Printingonthetable.jpeg">
+     <img width="32%" alt="Custom Keychain" src="assets/BoxforBed.jpeg">
 </div>
 
 It was fun to play with parameters and very quick iterations.
