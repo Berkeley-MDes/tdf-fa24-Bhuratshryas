@@ -15,7 +15,9 @@ To improve the quality of life on our Planet.
 
 # TDF Weekly Progress
 [week 1](README.md#week-1-personalizing-my-new-berkeley-home) , 
-[week 2](README.md#week-2-making-a-phone-stand-using-Rhino) 
+[week 2](README.md#week-2-Exploring-Rhino,-Grasshopper-and-3D-Printing-this-week) 
+[week 3](README.md#week-2-making-a-phone-stand-using-Rhino) 
+
 
 ---------------------------------------------------------------------------------------------------------
 
