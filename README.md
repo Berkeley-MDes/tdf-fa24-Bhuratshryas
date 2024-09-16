@@ -15,9 +15,17 @@ To improve the quality of life on our Planet.
 
 # TDF Weekly Progress
 [week 1](README.md#week-1-personalizing-my-new-berkeley-home) , 
-[week 2](README.md#week-2-Exploring-Rhino-Grasshopper-and-3D-Printing-this-week) 
-[week 3](README.md#week-2-making-a-phone-stand-using-Rhino) 
+[week 2](README.md#week-2-Exploring-Rhino-Grasshopper-and-3D-Printing-this-week) ,
+[week 3](README.md#week-3-putting-all-skills-into-work) 
 
+---------------------------------------------------------------------------------------------------------
+
+# Week 3: Putting all skills into work #
+## Week of 09/16/2024
+
+I want to push myself to build a model from scratch and make use of my skillsets to build something that solves a real problem for me and has a real use case. As you know I moved to Berkeley and am setting up my room, my charging area is currently messed up with too many thing moving, and too many cables, it does not look elegant at all, so I wanted to build a stand that can hold my phone and also my I watch and charge them at once.
+
+To make it easy for me to utilize the resource while making it look elegant.
 
 ---------------------------------------------------------------------------------------------------------
 
