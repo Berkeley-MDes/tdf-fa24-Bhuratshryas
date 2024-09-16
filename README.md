@@ -15,13 +15,13 @@ To improve the quality of life on our Planet.
 
 # TDF Weekly Progress
 [week 1](README.md#week-1-personalizing-my-new-berkeley-home) , 
-[week 2](README.md#week-2-Exploring-Rhino,-Grasshopper-and-3D-Printing-this-week) 
+[week 2](README.md#week-2-Exploring-Rhino-Grasshopper-and-3D-Printing-this-week) 
 [week 3](README.md#week-2-making-a-phone-stand-using-Rhino) 
 
 
 ---------------------------------------------------------------------------------------------------------
 
-# Week 2: Exploring Rhino, Grasshopper and 3D Printing this week #
+# Week 2: Exploring Rhino Grasshopper and 3D Printing this week #
 ## Week of 09/07/2024
 
 Rhino seems like an interesting software to build things as it is parametric and things can be edited quite quickly because of this. I wanted to make the phone stand for my phone dimensions so that I could keep it comfortably on my study table.
