@@ -23,6 +23,7 @@ To improve the quality of life on our Planet.
 # Week 3: Putting all skills into work #
 ## Week of 09/16/2024
 
+### Reflections
 I want to push myself to build a model from scratch and make use of my skillsets to build something that solves a real problem for me and has a real use case. As you know I moved to Berkeley and am setting up my room, my charging area is currently messed up with too many thing moving, and too many cables, it does not look elegant at all, so I wanted to build a stand that can hold my phone and also my I watch and charge them at once.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
@@ -31,18 +32,21 @@ I want to push myself to build a model from scratch and make use of my skillsets
 
 </div>
 
-To make it easy for me to utilize the resource while making it look elegant.
+#### To make it easy for me to utilize the resource while making it look elegant.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="32%" alt="Custom Keychain" src="assets/SCR-20240919-beds.png">
      <img width="32%" alt="Custom Keychain" src="assets/SCR-20240919-bdzg.png">
 </div>
 
-
+#### Youtube Video
 https://www.youtube.com/watch?v=eQastMoem7A
 
 I also expanded my work in video editing and this video shows the overall things that I worked on.
 
+#### Speculations
+
+I expected everything to work fine for the first instance itself, but I had to reiterate it and learnt a little more on tolerances with 3d printing.
 
 
 ---------------------------------------------------------------------------------------------------------
