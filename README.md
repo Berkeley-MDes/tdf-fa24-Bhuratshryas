@@ -27,6 +27,12 @@ I want to push myself to build a model from scratch and make use of my skillsets
 
 To make it easy for me to utilize the resource while making it look elegant.
 
+https://www.youtube.com/watch?v=eQastMoem7A
+
+I also expanded my work in video editing and this video shows the overall things that I worked on.
+
+
+
 ---------------------------------------------------------------------------------------------------------
 
 # Week 2: Exploring Rhino Grasshopper and 3D Printing this week #
