@@ -25,7 +25,19 @@ To improve the quality of life on our Planet.
 
 I want to push myself to build a model from scratch and make use of my skillsets to build something that solves a real problem for me and has a real use case. As you know I moved to Berkeley and am setting up my room, my charging area is currently messed up with too many thing moving, and too many cables, it does not look elegant at all, so I wanted to build a stand that can hold my phone and also my I watch and charge them at once.
 
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="32%" alt="Custom Keychain" src="assets/WhatsApp Image 2024-09-18 at 21.47.49 (1).jpeg">
+    <img width="32%" alt="Custom Keychain" src="assets/WhatsApp Image 2024-09-18 at 21.47.49.jpeg">
+
+</div>
+
 To make it easy for me to utilize the resource while making it look elegant.
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="32%" alt="Custom Keychain" src="assets/SCR-20240919-beds.png">
+     <img width="32%" alt="Custom Keychain" src="assets/SCR-20240919-bdzg.png">
+</div>
+
 
 https://www.youtube.com/watch?v=eQastMoem7A
 
