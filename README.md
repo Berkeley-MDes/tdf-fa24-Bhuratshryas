@@ -29,6 +29,8 @@ I want to push myself to build a model from scratch and make use of my skillsets
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="32%" alt="Custom Keychain" src="assets/WhatsApp Image 2024-09-18 at 21.47.49 (1).jpeg">
     <img width="32%" alt="Custom Keychain" src="assets/WhatsApp Image 2024-09-18 at 21.47.49.jpeg">
+    <img width="32%" alt="Custom Keychain" src="assets/Group 5.png">
+
 
 </div>
 
