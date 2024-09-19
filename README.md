@@ -42,7 +42,7 @@ I want to push myself to build a model from scratch and make use of my skillsets
 </div>
 
 #### Youtube Video
-https://www.youtube.com/watch?v=eQastMoem7A
+https://www.youtube.com/watch?v=eQastMoem7A (fun video go watch)
 
 I also expanded my work in video editing and this video shows the overall things that I worked on.
 
