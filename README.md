@@ -16,7 +16,14 @@ To improve the quality of life on our Planet.
 # TDF Weekly Progress
 [week 1](README.md#week-1-personalizing-my-new-berkeley-home) , 
 [week 2](README.md#week-2-Exploring-Rhino-Grasshopper-and-3D-Printing-this-week) ,
-[week 3](README.md#week-3-putting-all-skills-into-work) 
+[week 3](README.md#week-3-putting-all-skills-into-work) ,
+[week 4](README.md#week-4-moving-towards-building-interactive-tools) 
+
+---------------------------------------------------------------------------------------------------------
+
+# Week 4: Moving towards building interactive tools
+## Week of 09/23/2024
+
 
 ---------------------------------------------------------------------------------------------------------
 
