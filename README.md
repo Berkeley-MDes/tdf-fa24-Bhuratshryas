@@ -24,6 +24,15 @@ To improve the quality of life on our Planet.
 # Week 4: Moving towards building interactive tools
 ## Week of 09/23/2024
 
+### Reflections
+
+I started by reflecting on my journey, on what I use in daily life, and how each object shares data and works together. There are a lot of feedback mechanisms built in the systems currently that I realized today as I noticed the interactions of digital systems in sharing data to make our lives easier. 
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="100%" alt="Custom Keychain" src="assets/Digital Ecosystems.png">
+</div>
+
+
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -31,7 +40,7 @@ To improve the quality of life on our Planet.
 ## Week of 09/16/2024
 
 ### Reflections
-I want to push myself to build a model from scratch and make use of my skillsets to build something that solves a real problem for me and has a real use case. As you know I moved to Berkeley and am setting up my room, my charging area is currently messed up with too many thing moving, and too many cables, it does not look elegant at all, so I wanted to build a stand that can hold my phone and also my I watch and charge them at once.
+I want to push myself to build a model from scratch and make use of my skillsets to build something that solves a real problem for me and has a real use case. As you know I moved to Berkeley and am setting up my room, my charging area is currently messed up with too many things moving, and too many cables, it does not look elegant at all, so I wanted to build a stand that can hold my phone and also my I watch and charge them at once.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="32%" alt="Custom Keychain" src="assets/WhatsApp Image 2024-09-18 at 21.47.49 (1).jpeg">
@@ -49,13 +58,13 @@ I want to push myself to build a model from scratch and make use of my skillsets
 </div>
 
 #### Youtube Video
-https://www.youtube.com/watch?v=eQastMoem7A (fun video go watch)
+https://www.youtube.com/watch?v=eQastMoem7A (fun video to watch)
 
 I also expanded my work in video editing and this video shows the overall things that I worked on.
 
 #### Speculations
 
-I expected everything to work fine for the first instance itself, but I had to reiterate it and learnt a little more on tolerances with 3d printing.
+I expected everything to work fine for the first instance itself, but I had to reiterate it and learn a little more about tolerances with 3d printing.
 
 
 ---------------------------------------------------------------------------------------------------------
@@ -67,7 +76,7 @@ Rhino seems like an interesting software to build things as it is parametric and
 
 Here's how it went like:
 
-My Understanding on Parametric Modeling
+My Understanding of Parametric Modeling
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="50%" alt="Custom Keychain" src="assets/Rhino Modelling.png">
