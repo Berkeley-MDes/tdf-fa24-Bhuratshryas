@@ -63,13 +63,8 @@ Here is a diagram to show how things relate to each other with feedbacks that th
     <img width="100%" alt="Custom Keychain" src="assets/Digital Ecosystems.png">
 </div>
 
-### Speculations
-
-I feel the world is getting more and more connected with data transfer from one application to another, all the Google applications are linked to each other. Some connect to other applications using application protocol interface, to transfer data. We are always communicating with the world using the internet and it's getting more and more every day. 
-
-With AI playing a huge role in the current world, we will soon see a world where all these interfaces become even more invisible. The communication layer is still invisible but sooner we will see a world where the interface layer becomes invisible too.
-
-### This week I also attended a AI Hackathon, focused towards health with SunQ and Josh from the MDes Cohort and we ended up building a interaction system between phone call, llm's, human dispatchers, hospitals and ambulance providers.
+### System Interaction put to action
+## This week I also attended a AI Hackathon, focused towards health with SunQ and Josh from the MDes Cohort and we ended up building a interaction system between phone call, llm's, human dispatchers, hospitals and ambulance providers.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="100%" alt="Custom Keychain" src="assets/IMG_7711.jpg">
@@ -87,6 +82,11 @@ With AI playing a huge role in the current world, we will soon see a world where
 
 This is the framework that helped me understand how machines interact with each other and transfer data to optimize processes.
 
+### Speculations
+
+I feel the world is getting more and more connected with data transfer from one application to another, all the Google applications are linked to each other. Some connect to other applications using application protocol interface, to transfer data. We are always communicating with the world using the internet and it's getting more and more every day. 
+
+With AI playing a huge role in the current world, we will soon see a world where all these interfaces become even more invisible. The communication layer is still invisible but sooner we will see a world where the interface layer becomes invisible too.
 
 ---------------------------------------------------------------------------------------------------------
 
