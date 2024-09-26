@@ -79,6 +79,12 @@ With AI playing a huge role in the current world, we will soon see a world where
 - solution: an ai voice workflow to help automate triaging and response 
 - Link to the video: https://youtu.be/Zw503GZLikM
 
+### Map for systems interacting for the product we built during the hackathon
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="100%" alt="Custom Keychain" src="assets/Rapid Response.jpg">
+</div>
+
 This is the framework that helped me understand how machines interact with each other and transfer data to optimize processes.
 
 
