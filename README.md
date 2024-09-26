@@ -60,7 +60,7 @@ Here is a diagram to show how things relate to each other with feedbacks that th
 
   
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img width="100%" alt="Custom Keychain" src="assets/Digital Ecosystems.png">
+    <img width="70%" alt="Custom Keychain" src="assets/Digital Ecosystems.png">
 </div>
 
 ### System Interaction put to action
@@ -68,7 +68,7 @@ Here is a diagram to show how things relate to each other with feedbacks that th
 #### This week I also attended a AI Hackathon, focused towards health with SunQ and Josh from the MDes Cohort and we ended up building a interaction system between phone call, llm's, human dispatchers, hospitals and ambulance providers.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img width="100%" alt="Custom Keychain" src="assets/IMG_7711.jpg">
+    <img width="70%" alt="Custom Keychain" src="assets/IMG_7711.jpg">
 </div>
 
 - problem: every minute matters in an emergency scenario and response can be slowed down by manual operation and human error
@@ -80,6 +80,11 @@ Here is a diagram to show how things relate to each other with feedbacks that th
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="100%" alt="Custom Keychain" src="assets/Rapid Response.jpg">
 </div>
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="70%" alt="Custom Keychain" src="assets/Interactive System for Rapid Response.jpeg">
+</div>
+
 
 This is the framework that helped me understand how machines interact with each other and transfer data to optimize processes.
 
