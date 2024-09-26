@@ -28,19 +28,46 @@ To improve the quality of life on our Planet.
 
 I started by reflecting on my journey, on what I use in daily life, and how each object shares data and works together. There are a lot of feedback mechanisms built in the systems currently that I realized today as I noticed the interactions of digital systems in sharing data to make our lives easier. 
 
-### Images, devices that I use in daily life
+### Devices & tools that I use every day.
+
+1. Smart Phone
+2. Laptop
+3. Smart Watch
+4. Smart Speaker
+5. Email
+6. Calendar
+7. Wallet
+8. Credit Card
+9. Bank Account
+10. Google Meet
+11. Online Shopping Applications
+12. Movie Streaming & Video Streaming Services
+13. Gaming Applications
+14. Refrigerator
+15. Smart Lights
+16. GPT
 
 ### Diagrammatic Analysis
 
+- Calendar, Gmail, and Video Conferencing are linked to each other and constantly transfer data.
+- Wallet, Credit Card, and banking applications are linked to each other and constantly transfer data.
+- Laptop is linked with Bluetooth or wireless speakers at home, it is also linked to wireless mouse and keyboard to transfer and receive data.
+- Smart phone and smart watch are linked together to track health goals, messaging, calls and other application-oriented activities that tend to become invisible with proper feedback loops.
+- Smart phones are also linked to refrigerators, smart light and thermostats to make home settings more friendly and interactive.
+- Social media applications like instagram & whatsapp are linked to eachother, to learn from users data and show us advertisements on the same.
+
+Here is a diagram to show how things relate to each other with feedbacks that they tend to transfer to each other.
+
+  
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="100%" alt="Custom Keychain" src="assets/Digital Ecosystems.png">
 </div>
 
 ### Speculations
 
+I feel the world is getting more and more connected with data transfer from one application to another, all the Google applications are linked to each other. Some connect to other applications using application protocol interface, to transfer data. We are always communicating with the world using the internet and it's getting more and more every day. 
 
-
-
+With AI playing a huge role in the current world, we will soon see a world where all these interfaces become even more invisible. The communication layer is still invisible but sooner we will see a world where the interface layer becomes invisible too.
 
 ---------------------------------------------------------------------------------------------------------
 
