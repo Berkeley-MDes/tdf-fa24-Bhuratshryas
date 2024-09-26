@@ -71,6 +71,10 @@ With AI playing a huge role in the current world, we will soon see a world where
 
 ### This week I also attended a AI Hackathon, focused towards health with SunQ and Josh from the MDes Cohort and we ended up building a interaction system between phone call, llm's, human dispatchers, hospitals and ambulance providers.
 
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="100%" alt="Custom Keychain" src="assets/IMG_7711.jpg">
+</div>
+
 - problem: every minute matters in an emergency scenario and response can be slowed down by manual operation and human error
 - solution: an ai voice workflow to help automate triaging and response 
 - Link to the video: https://youtu.be/Zw503GZLikM
