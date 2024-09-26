@@ -28,9 +28,17 @@ To improve the quality of life on our Planet.
 
 I started by reflecting on my journey, on what I use in daily life, and how each object shares data and works together. There are a lot of feedback mechanisms built in the systems currently that I realized today as I noticed the interactions of digital systems in sharing data to make our lives easier. 
 
+### Images, devices that I use in daily life
+
+### Diagrammatic Analysis
+
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="100%" alt="Custom Keychain" src="assets/Digital Ecosystems.png">
 </div>
+
+### Speculations
+
+
 
 
 
