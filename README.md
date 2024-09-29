@@ -17,7 +17,7 @@ To improve the quality of life on our Planet.
 [week 1](README.md#week-1-personalizing-my-new-berkeley-home) , 
 [week 2](README.md#week-2-Exploring-Rhino-Grasshopper-and-3D-Printing-this-week) ,
 [week 3](README.md#week-3-putting-all-skills-into-work) ,
-[week 4](README.md#week-4-moving-towards-building-interactive-tools) 
+[week 4](README.md#week-4-moving-towards-building-interactive-tools) ,
 [week 5](README.md#week-5-playing-with-photon) 
 
 ---------------------------------------------------------------------------------------------------------
