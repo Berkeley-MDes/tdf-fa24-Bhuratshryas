@@ -2,7 +2,7 @@
 
 <img align="right" width="200" alt="Shryas Bhurat Portrait" src="assets/shryasbhurat.jpeg">
 
-I'm **Shryas Bhurat**, an **Engineer**, **Designer**, & **Entrepreneur**.
+I'm [**Shryas Bhurat**](https://www.shryasbhurat.com), an **Engineer**, **Designer**, & **Entrepreneur**.
 
 Incredibly passionate about merging:
 - Science
