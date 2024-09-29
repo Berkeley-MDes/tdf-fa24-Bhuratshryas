@@ -10,7 +10,7 @@ Incredibly passionate about merging:
 - Technology
 - Entrepreneurship
 
-To improve the quality of life on our Planet.
+To improve the quality of life.
 
 
 # TDF Weekly Progress
