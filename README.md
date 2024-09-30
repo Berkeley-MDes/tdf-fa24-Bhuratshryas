@@ -170,6 +170,8 @@ With AI playing a huge role in the current world, we will soon see a world where
 ### Reflections
 I want to push myself to build a model from scratch and make use of my skillsets to build something that solves a real problem for me and has a real use case. As you know I moved to Berkeley and am setting up my room, my charging area is currently messed up with too many things moving, and too many cables, it does not look elegant at all, so I wanted to build a stand that can hold my phone and also my I watch and charge them at once.
 
+### Diagrams & Images
+
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="32%" alt="Custom Keychain" src="assets/WhatsApp Image 2024-09-18 at 21.47.49 (1).jpeg">
     <img width="32%" alt="Custom Keychain" src="assets/WhatsApp Image 2024-09-18 at 21.47.49.jpeg">
@@ -178,7 +180,6 @@ I want to push myself to build a model from scratch and make use of my skillsets
 
 </div>
 
-### Diagrams & Images
 
 #### To make it easy for me to utilize the resource while making it look elegant.
 
