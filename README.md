@@ -170,15 +170,34 @@ With AI playing a huge role in the current world, we will soon see a world where
 ### Reflections
 I want to push myself to build a model from scratch and make use of my skillsets to build something that solves a real problem for me and has a real use case. As you know I moved to Berkeley and am setting up my room, my charging area is currently messed up with too many things moving, and too many cables, it does not look elegant at all, so I wanted to build a stand that can hold my phone and also my I watch and charge them at once.
 
+#### Storyboard
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="52%" alt="Custom Keychain" src="assets/Storyboard.png">
+</div>
+
+- Frame 1: Moving to Berkeley, USA from Home back in India
+- Frame 2: Moving to a new home without any furniture and essentials
+- Frame 3: Its frustrating after long day at college to go back home and find the charger from the clunk of messy wires
+- Frame 4: I use 3D Printing, parametric modeling using Grasshopper and design something that can help me solve this problem.
+- Frame 5: Utilizing charging station concept where I can throw my watch to the stand, it sticks around and fuels my watch and phone.
+- Frame 6: Easy to handle with edge fillets and understanding the model on how to use it.
+
+### Project Challenge Level Rationale
+#### Challenge level: 03 - Axolotl
+
+I’m very new to grasshopper-based modeling and never used tools like these for modeling before. I had to figure out how to use it by watching videos and getting help from people around me in the cohort. I started working on Rhino first to see how the models are created in it, the user interface was quite daunting for me initially, but then playing around with the charger stand files shared, I started to interact with the system. I then tried to build a rectangular box on my own, just to see how the grasshopper modeling works, and then pursued to build something that I wanted for my home. I was new to 3D printing as well since I had to learn how support structures work, and tolerancing working on different systems and filaments to use. Working on these many iterations streamlined the process for me and I then built the model from scratch pushing myself to learn new things along the way, I learned a lot about dimensioning, modeling, tolerances, fillets, and other human-centered design aspects. Thus I consider this project to be an Axolotl level one.
+
+
 ### Diagrams & Images
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="32%" alt="Custom Keychain" src="assets/WhatsApp Image 2024-09-18 at 21.47.49 (1).jpeg">
     <img width="32%" alt="Custom Keychain" src="assets/WhatsApp Image 2024-09-18 at 21.47.49.jpeg">
     <img width="32%" alt="Custom Keychain" src="assets/Group 5.png">
-
-
 </div>
+
+
 
 
 #### To make it easy for me to utilize the resource while making it look elegant.
@@ -188,14 +207,37 @@ I want to push myself to build a model from scratch and make use of my skillsets
      <img width="32%" alt="Custom Keychain" src="assets/SCR-20240919-bdzg.png">
 </div>
 
+### Human Factors (AEIOU Framework)
+
+- Activitiy: To solve the problem for a place/equipment where I can charge my mobile and iwatch without any issue, currently I keep it on the floor.
+- Environments the activity takes place everyday when I get home from college and need to charge my watch and phone
+- Interactions are between me and the charger that I use to charge the watch and phone, I charging seamlessness would depend on the time I keep them to charge and usually its frustrating to find the right charger, turn and unturn them because they get messy overtime.
+- Objects I utilized sketches, design on grasshopper, dimensioning and tolerancing, 3d printing software, perplexity to solve my queries to build it.
+- User: I’m the user and I’m usually tired going home after college and want to instantly put all my electronics gadgets on charge, the immediate need to find the charger that fits well on the first time was really crucial for me as I went on to solve this problem. It has to have human factors included in the design so that it can be handled easily.
+
+
 #### Youtube Video
 https://www.youtube.com/watch?v=eQastMoem7A (fun video to watch)
 
 After trying out 3D printing, I decided to learn something new - video editing. I made a video that shows all the different things I've been working on lately. This video is like a big picture of my projects. It probably shows my 3D printed stuff, but it also has parts where I used my new video editing skills. I might have added cool transitions between scenes, made the colors look better, fixed the sound, or even put in some special effects. By making this video, I got to practice my new editing skills while also showing off my 3D printing work. 
 
-#### Speculations
+### Outcomes
+- The working battery charging stand prototype, so that it can charge my phone easily.
+- Human factors into consideration with fillets and wire extrusions so that it look neat, tidy and sturdy.
+- Form factor so that it can seamlessly integrate with in my surroundings in the room.
+
+### Speculations
 
 I thought everything would work perfectly on my first try with 3D printing, but I was wrong. I had to do it over and over again, learning more each time. This taught me a lot about how 3D printers work and what they can and can't do well. I found out that tiny differences in measurements matter a lot in 3D printing. By trying many times and making small changes, I got better at understanding how the printer, the materials, and my designs all work together. Now, I can make better 3D prints, and I really see how amazing and tricky 3D printing can be for making things.
+
+#### Exploring computational design technologies
+
+As a newcomer to computational design, I immersed myself in learning Grasshopper and Rhino. I started by familiarizing myself with Rhino's interface, which I initially found daunting. To gain comfort, I examined existing charger stand files and practiced creating basic shapes & playing around with pre built model. This foundation allowed me to transition into Grasshopper, where I began experimenting with parametric modeling by creating simple geometries like rectangular boxes. I relied heavily on tutorial videos and sought assistance from my cohort members. This iterative learning process enabled me to progress from basic shapes to more complex designs in Grasshopper. Simultaneously, I explored 3D printing technology, experimenting with support structures, various filaments, and printer settings. This hands-on approach to both digital modeling and physical production gave me a comprehensive understanding of the entire design-to-fabrication process, which was crucial for my project's success.
+
+### Conclusion: 
+My Charging Station project has been a great journey into the world of computational design and digital fabrication. As a novice in Grasshopper-based modeling and 3D printing, I faced numerous challenges that pushed me to develop new skills and problem-solving abilities. Through iterative design and prototyping, I not only created a functional solution to my everyday charging needs but also gained valuable insights into parametric modeling, human-centered design, and additive manufacturing. This experience has demonstrated the power of computational design tools in solving real-world problems and how they can empower individuals to create customized solutions. The project's success, evidenced by a functional and aesthetically pleasing charging station that integrates seamlessly into my living space, stands as a testament to the potential of combining creativity with technology, has also laid a strong foundation for future endeavors in design and engineering, showcasing the immense value of learning through hands-on experience and perseverance.
+
+
 
 ---------------------------------------------------------------------------------------------------------
 
