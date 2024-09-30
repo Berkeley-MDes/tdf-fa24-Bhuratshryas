@@ -50,6 +50,10 @@ Then I ran few codes on printing Hello world in different ways, with different d
 
 ### Diagrammatic Analysis of a Microelectronics Project
 
+1. Micro Electronics Circuit.
+2. Micro Electronics Setup.
+3. Micro Electronics Run.
+
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="33%" alt="Micro Electronics Circuit" src="assets/microelectronics_intro.png">
     <img width="33%" alt="Micro Electronics Setup" src="assets/Microelectronics Setup.jpeg">
@@ -59,6 +63,11 @@ Then I ran few codes on printing Hello world in different ways, with different d
 Then I put all that I learnt about resisters, photon, delays, flashing, connecting it to internet and bread boards to blink a bulb with 3 volts of voltage using the diagram shared on how to make connections, I also had to add few resistors so that the current flow can be reduced suitable for both bulb and the button added to change the delay randomization for the software.
 
 The images below show button pressed to change the speed of the delay (300 ms - 1000 ms & 30 ms to 300 ms), blinking fast and blinking slow based on button pressed to change the speed within the range.
+
+1. Button Pressed shown on Terminal.
+2. Blink Slow based on lower range on periodicity.
+3. Blink Fast based on higher range on periodicity.
+
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="33%" alt="Button Pressed shown on Terminal" src="assets/Button Pressed.mp4">
     <img width="33%" alt="Blink Slow based on lower range on periodicity" src="assets/Blink Slow.mp4">  
