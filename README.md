@@ -243,9 +243,12 @@ It worked, the phone was more stable and I could bake the results instantly & th
      <img width="32%" alt="Custom Keychain" src="assets/Cylinderinsteadofsphere.png">
 </div>
 
-They then created a 3D file to print the output so that I could use it.
+I then created a 3D file to print the output so that I could use it.
 
-I also tried to make a model from scratch using Grasshopper, to keep things near my bed sorted.
+#### Box for storage near my bed
+
+I attempted to create a custom design using Grasshopper, a visual programming tool for 3D modeling. My goal was to make a practical storage solution for the area near my bed. Specifically, I wanted to design a box that could neatly organize and hold my various chargers. This project aimed to combine functionality with personalized design, allowing me to keep my bedside area tidy and have easy access to my charging cables. By using Grasshopper, I could experiment with different shapes, sizes, and compartments to create a box that perfectly fit my needs and the available space next to my bed.
+
 #### Images
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
