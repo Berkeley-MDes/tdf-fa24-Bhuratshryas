@@ -40,7 +40,8 @@ Then I ran few codes on printing Hello world in different ways, with different d
 1. Printing Hello world.
 2. Printing Hello world, but one word in a line.
 3. Priting Hello world, with different delay rates.
-   
+
+(Videos Here)
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="33%" alt="Printing Hello World" src="assets/Hello World.mp4">
     <img width="33%" alt="Printing Hello world but one word in a line" src="assets/Hello World, one word in a line.mp4">
@@ -54,6 +55,7 @@ Then I ran few codes on printing Hello world in different ways, with different d
 2. Micro Electronics Setup.
 3. Micro Electronics Run.
 
+(Videos Here)
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="33%" alt="Micro Electronics Circuit" src="assets/microelectronics_intro.png">
     <img width="33%" alt="Micro Electronics Setup" src="assets/Microelectronics Setup.jpeg">
@@ -68,6 +70,7 @@ The images below show button pressed to change the speed of the delay (300 ms - 
 2. Blink Slow based on lower range on periodicity.
 3. Blink Fast based on higher range on periodicity.
 
+(Videos Here)
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="33%" alt="Button Pressed shown on Terminal" src="assets/Button Pressed.mp4">
     <img width="33%" alt="Blink Slow based on lower range on periodicity" src="assets/Blink Slow.mp4">  
