@@ -43,8 +43,8 @@ Then I ran few codes on printing Hello world in different ways, with different d
    
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="33%" alt="Printing Hello World" src="assets/Hello World.mp4">
-    <img width="33%" alt="Printing Hello world, but one word in a line" src="assets/Hello World, one word in a line.mp4">
-    <img width="33%" alt="Priting Hello world, with different delay rates" src="assets/Hello World.mp4">
+    <img width="33%" alt="Printing Hello world but one word in a line" src="assets/Hello World, one word in a line.mp4">
+    <img width="33%" alt="Priting Hello world with different delay rates" src="assets/Hello World.mp4">
 </div>
 
 
