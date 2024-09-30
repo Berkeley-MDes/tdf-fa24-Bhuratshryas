@@ -38,14 +38,14 @@ I first began with connecting my photon with the home internet, it was easy to f
 Then I ran few codes on printing Hello world in different ways, with different delays to understand on how to flash photon software, what happens during compilation, how to look at serial monitor, go deeper into delays and why they are important, below are my iterations.
 
 1. Printing Hello world.
-2. Printing Hello world, but one word in a line.
-3. Priting Hello world, with different delay rates.
+2. Printing Shryas Bhurat, but one word in a line.
+3. Priting Shryas Bhurat, with different delay rates.
 
 (Videos Here)
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="33%" alt="Printing Hello World" src="assets/Hello World.mp4">
-    <img width="33%" alt="Printing Hello world but one word in a line" src="assets/Hello World, one word in a line.mp4">
-    <img width="33%" alt="Priting Hello world with different delay rates" src="assets/Hello worold with 3000 ms delay.mp4">
+    <img width="33%" alt="Printing Shryas Bhurat but one word in a line" src="assets/Hello World, one word in a line.mp4">
+    <img width="33%" alt="Priting Shryas Bhurat with different delay rates" src="assets/Hello worold with 3000 ms delay.mp4">
 </div>
 
 
