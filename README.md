@@ -37,6 +37,7 @@ I first began with connecting my photon with the home internet, it was easy to f
 
 Then I ran few codes on printing Hello world in different ways, with different delays to understand on how to flash photon software, what happens during compilation, how to look at serial monitor, go deeper into delays and why they are important, below are my iterations.
 
+Some playing videos:
 1. Printing Hello world.
 2. Printing Shryas Bhurat, but one word in a line.
 3. Priting Shryas Bhurat, with different delay rates.
@@ -50,11 +51,11 @@ Then I ran few codes on printing Hello world in different ways, with different d
 
 ### Diagrammatic Analysis of a Microelectronics Project
 
+Some playing videos:
 1. Micro Electronics Circuit.
 2. Micro Electronics Setup.
 3. Micro Electronics Run.
 
-(Videos Here)
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="33%" alt="Micro Electronics Circuit" src="assets/microelectronics_intro.png">
     <img width="33%" alt="Micro Electronics Setup" src="assets/Adobe Express 2024-09-30 10.13.17.gif">
@@ -63,8 +64,9 @@ Then I ran few codes on printing Hello world in different ways, with different d
 
 Then I put all that I learnt about resisters, photon, delays, flashing, connecting it to internet and bread boards to blink a bulb with 3 volts of voltage using the diagram shared on how to make connections, I also had to add few resistors so that the current flow can be reduced suitable for both bulb and the button added to change the delay randomization for the software.
 
-The images below show button pressed to change the speed of the delay (300 ms - 1000 ms & 30 ms to 300 ms), blinking fast and blinking slow based on button pressed to change the speed within the range.
+The images/videos below show button pressed to change the speed of the delay (300 ms - 1000 ms & 30 ms to 300 ms), blinking fast and blinking slow based on button pressed to change the speed within the range.
 
+Some playing videos:
 1. Button Pressed shown on Terminal.
 2. Blink Slow based on lower range on periodicity.
 3. Blink Fast based on higher range on periodicity.
