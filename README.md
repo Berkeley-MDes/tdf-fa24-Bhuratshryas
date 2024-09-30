@@ -31,6 +31,7 @@ This weekend, I worked on playing with Photon, to connect it to internet, add so
 
 I first began with connecting my photon with the home internet, it was easy to follow to tutorials to get it connected to the internet.
 
+
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="33%" alt="Connecting to Home Network" src="assets/Connecting to home network.png">
 </div>
@@ -80,6 +81,10 @@ Some playing videos:
 ### Speculations
 
 I think this will be a very useful skill and will help me to work on projects that have hardware aspects to it. I look forward to playing more with photon, to build a interactive tool that can take data realtime in a hardware setting and transfer it to the software aspects, so that we can learn from the tools/wearable that we use, similar to smart watches and digital devices.
+
+References:
+Link to changing wifi's: https://docs.particle.io/tools/developer-tools/configure-wi-fi/
+
 
 
 ---------------------------------------------------------------------------------------------------------
