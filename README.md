@@ -72,7 +72,7 @@ The images below show button pressed to change the speed of the delay (300 ms - 
 
 (Videos Here)
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img width="33%" alt="Button Pressed shown on Terminal" src="assets/Button Pressed.gif">
+    <img width="33%" alt="Button Pressed shown on Terminal" src="assets/Adobe Express 2024-09-30 10.13.17.gif">
     <img width="33%" alt="Blink Slow based on lower range on periodicity" src="assets/Adobe Express 2024-09-30 10.09.06.gif">  
     <img width="33%" alt="Blink Fast based on higher range on periodicity" src="assets/Adobe Express 2024-09-30 10.06.09.gif">    
 </div>
