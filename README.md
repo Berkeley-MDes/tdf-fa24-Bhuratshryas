@@ -32,7 +32,7 @@ This weekend, I worked on playing with Photon, to connect it to internet, add so
 I first began with connecting my photon with the home internet, it was easy to follow to tutorials to get it connected to the internet.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img width="60%" alt="Connecting to Home Network" src="assets/Connecting to home network.png">
+    <img width="33%" alt="Connecting to Home Network" src="assets/Connecting to home network.png">
 </div>
 
 Then I ran few codes on printing Hello world in different ways, with different delays to understand on how to flash photon software, what happens during compilation, how to look at serial monitor, go deeper into delays and why they are important, below are my iterations.
