@@ -188,16 +188,16 @@ I want to push myself to build a model from scratch and make use of my skillsets
 
 I’m very new to grasshopper-based modeling and never used tools like these for modeling before. I had to figure out how to use it by watching videos and getting help from people around me in the cohort. I started working on Rhino first to see how the models are created in it, the user interface was quite daunting for me initially, but then playing around with the charger stand files shared, I started to interact with the system. I then tried to build a rectangular box on my own, just to see how the grasshopper modeling works, and then pursued to build something that I wanted for my home. I was new to 3D printing as well since I had to learn how support structures work, and tolerancing working on different systems and filaments to use. Working on these many iterations streamlined the process for me and I then built the model from scratch pushing myself to learn new things along the way, I learned a lot about dimensioning, modeling, tolerances, fillets, and other human-centered design aspects. Thus I consider this project to be an Axolotl level one.
 
+### Working
 
-### Diagrams & Images
+My experiments with computational design technologies significantly influenced my Charging Station design. The parametric modeling capabilities of Grasshopper allowed me to easily adjust dimensions and features, facilitating rapid iterations and refinements. This flexibility, combined with my newly acquired knowledge of dimensioning, tolerances, and fillets, enabled me to create a more ergonomic and user-friendly design that incorporated important human factors considerations.
+
+My exploration of 3D printing techniques directly impacted my design's printability. I adjusted my model to minimize support structures and optimize print time and material usage. The ability to quickly prototype and test designs allowed me to address challenges such as integrating the Apple Watch charger and refining the overall form factor. This iterative process, enabled by the combination of parametric modeling and 3D printing, ultimately led me to create a functional, customized charging station that effectively solved my initial problem while demonstrating the potential of computational design technologies in creating practical solutions.
+
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img width="32%" alt="Custom Keychain" src="assets/WhatsApp Image 2024-09-18 at 21.47.49 (1).jpeg">
-    <img width="32%" alt="Custom Keychain" src="assets/WhatsApp Image 2024-09-18 at 21.47.49.jpeg">
-    <img width="32%" alt="Custom Keychain" src="assets/Group 5.png">
+    <img width="70%" alt="Custom Keychain" src="assets/Group 5.png">
 </div>
-
-
 
 
 #### To make it easy for me to utilize the resource while making it look elegant.
@@ -220,6 +220,13 @@ I’m very new to grasshopper-based modeling and never used tools like these for
 https://www.youtube.com/watch?v=eQastMoem7A (fun video to watch)
 
 After trying out 3D printing, I decided to learn something new - video editing. I made a video that shows all the different things I've been working on lately. This video is like a big picture of my projects. It probably shows my 3D printed stuff, but it also has parts where I used my new video editing skills. I might have added cool transitions between scenes, made the colors look better, fixed the sound, or even put in some special effects. By making this video, I got to practice my new editing skills while also showing off my 3D printing work. 
+
+### Images
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="32%" alt="Custom Keychain" src="assets/WhatsApp Image 2024-09-18 at 21.47.49 (1).jpeg">
+    <img width="32%" alt="Custom Keychain" src="assets/WhatsApp Image 2024-09-18 at 21.47.49.jpeg">
+</div>
 
 ### Outcomes
 - The working battery charging stand prototype, so that it can charge my phone easily.
