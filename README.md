@@ -26,8 +26,48 @@ To improve the quality of life.
 ## Week of 09/30/2024
 
 ### Reflections
-### Diagrammatic Analysis
+
+This weekend, I worked on playing with Photon, to connect it to internet, add some electronics components on a bread board and play with bliking a bulb. 
+
+I first began with connecting my photon with the home internet, it was easy to follow to tutorials to get it connected to the internet.
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="60%" alt="Connecting to Home Network" src="assets/Connecting to home network.png">
+</div>
+
+Then I ran few codes on printing Hello world in different ways, with different delays to understand on how to flash photon software, what happens during compilation, how to look at serial monitor, go deeper into delays and why they are important, below are my iterations.
+
+1. Printing Hello world.
+2. Printing Hello world, but one word in a line.
+3. Priting Hello world, with different delay rates.
+   
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="33%" alt="Printing Hello World" src="assets/Hello World.mp4">
+    <img width="33%" alt="Printing Hello world, but one word in a line" src="assets/Hello World, one word in a line.mp4">
+    <img width="33%" alt="Priting Hello world, with different delay rates" src="assets/Hello World.mp4">
+</div>
+
+
+### Diagrammatic Analysis of a Microelectronics Project
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="33%" alt="Micro Electronics Circuit" src="assets/microelectronics_intro.png">
+    <img width="33%" alt="Micro Electronics Setup" src="assets/Microelectronics Setup.jpeg">
+    <img width="33%" alt="Micro Electronics Run" src="assets/Microelectronics Run.mp4">
+</div>
+
+Then I put all that I learnt about resisters, photon, delays, flashing, connecting it to internet and bread boards to blink a bulb with 3 volts of voltage using the diagram shared on how to make connections, I also had to add few resistors so that the current flow can be reduced suitable for both bulb and the button added to change the delay randomization for the software.
+
+The images below show button pressed to change the speed of the delay (300 ms - 1000 ms & 30 ms to 300 ms), blinking fast and blinking slow based on button pressed to change the speed within the range.
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="33%" alt="Button Pressed shown on Terminal" src="assets/Button Pressed.mp4">
+    <img width="33%" alt="Blink Slow based on lower range on periodicity" src="assets/Blink Slow.mp4">  
+    <img width="33%" alt="Blink Fast based on higher range on periodicity" src="assets/Blink Fast.mp4">    
+</div>
+
 ### Speculations
+
+I think this will be a very useful skill and will help me to work on projects that have hardware aspects to it. I look forward to playing more with photon, to build a interactive tool that can take data realtime in a hardware setting and transfer it to the software aspects, so that we can learn from the tools/wearable that we use, similar to smart watches and digital devices.
 
 
 ---------------------------------------------------------------------------------------------------------
