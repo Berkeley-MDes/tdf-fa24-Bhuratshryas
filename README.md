@@ -41,11 +41,10 @@ Then I ran few codes on printing Hello world in different ways, with different d
 2. Printing Shryas Bhurat, but one word in a line.
 3. Priting Shryas Bhurat, with different delay rates.
 
-(Videos Here)
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img width="33%" alt="Printing Hello World" src="assets/Hello World.mp4">
-    <img width="33%" alt="Printing Shryas Bhurat but one word in a line" src="assets/Hello World, one word in a line.mp4">
-    <img width="33%" alt="Priting Shryas Bhurat with different delay rates" src="assets/Hello worold with 3000 ms delay.mp4">
+    <img width="33%" alt="Printing Hello World" src="assets/Adobe Express 2024-09-30 10.21.44.gif">
+    <img width="33%" alt="Printing Shryas Bhurat but one word in a line" src="assets/Adobe Express 2024-09-30 10.19.10.gif">
+    <img width="33%" alt="Priting Shryas Bhurat with different delay rates" src="assets/Adobe Express 2024-09-30 10.23.29.gif">
 </div>
 
 
@@ -58,8 +57,8 @@ Then I ran few codes on printing Hello world in different ways, with different d
 (Videos Here)
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="33%" alt="Micro Electronics Circuit" src="assets/microelectronics_intro.png">
-    <img width="33%" alt="Micro Electronics Setup" src="assets/Microelectronics Setup.jpeg">
-    <img width="33%" alt="Micro Electronics Run" src="assets/Microelectronics Run.mp4">
+    <img width="33%" alt="Micro Electronics Setup" src="assets/Adobe Express 2024-09-30 10.13.17.gif">
+    <img width="33%" alt="Micro Electronics Run" src="assets/Adobe Express 2024-09-30 10.09.06.gif">
 </div>
 
 Then I put all that I learnt about resisters, photon, delays, flashing, connecting it to internet and bread boards to blink a bulb with 3 volts of voltage using the diagram shared on how to make connections, I also had to add few resistors so that the current flow can be reduced suitable for both bulb and the button added to change the delay randomization for the software.
@@ -70,7 +69,6 @@ The images below show button pressed to change the speed of the delay (300 ms - 
 2. Blink Slow based on lower range on periodicity.
 3. Blink Fast based on higher range on periodicity.
 
-(Videos Here)
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="33%" alt="Button Pressed shown on Terminal" src="assets/Adobe Express 2024-09-30 10.13.17.gif">
     <img width="33%" alt="Blink Slow based on lower range on periodicity" src="assets/Adobe Express 2024-09-30 10.09.06.gif">  
