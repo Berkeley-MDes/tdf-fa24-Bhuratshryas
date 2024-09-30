@@ -178,6 +178,8 @@ I want to push myself to build a model from scratch and make use of my skillsets
 
 </div>
 
+### Diagrams & Images
+
 #### To make it easy for me to utilize the resource while making it look elegant.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
@@ -188,12 +190,11 @@ I want to push myself to build a model from scratch and make use of my skillsets
 #### Youtube Video
 https://www.youtube.com/watch?v=eQastMoem7A (fun video to watch)
 
-I also expanded my work in video editing and this video shows the overall things that I worked on.
+After trying out 3D printing, I decided to learn something new - video editing. I made a video that shows all the different things I've been working on lately. This video is like a big picture of my projects. It probably shows my 3D printed stuff, but it also has parts where I used my new video editing skills. I might have added cool transitions between scenes, made the colors look better, fixed the sound, or even put in some special effects. By making this video, I got to practice my new editing skills while also showing off my 3D printing work. 
 
 #### Speculations
 
-I expected everything to work fine for the first instance itself, but I had to reiterate it and learn a little more about tolerances with 3d printing.
-
+I thought everything would work perfectly on my first try with 3D printing, but I was wrong. I had to do it over and over again, learning more each time. This taught me a lot about how 3D printers work and what they can and can't do well. I found out that tiny differences in measurements matter a lot in 3D printing. By trying many times and making small changes, I got better at understanding how the printer, the materials, and my designs all work together. Now, I can make better 3D prints, and I really see how amazing and tricky 3D printing can be for making things.
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -203,9 +204,13 @@ I expected everything to work fine for the first instance itself, but I had to r
 ### Reflections
 Rhino seems like an interesting software to build things as it is parametric and things can be edited quite quickly because of this. I wanted to make the phone stand for my phone dimensions so that I could keep it comfortably on my study table.
 
-Here's how it went like:
+#### Diagrams
 
 My Understanding of Parametric Modeling
+
+I've found out that Rhino is a really cool software for making things. It's special because it lets me change my designs quickly and easily. This is because it uses something called parametric modeling. I want to use Rhino to make a phone stand that fits my phone perfectly and looks good on my study table. I'm excited to put in my phone's size and play around with different designs. I can change things like how tall the stand is, what angle it sits at, and even add a spot for my charging cable. The best part is, if I want to change anything, I just need to change some numbers and the whole design updates by itself.
+
+This way of designing things is great because I can try out lots of different ideas really fast. I don't have to start over from the beginning every time I want to make a small change. I'm looking forward to making something that's not just useful, but exactly right for me and my study setup. Plus, I'll be learning how to use a powerful tool that I can use for other projects in the future. Once I'm happy with my design, I might even 3D print it or find another way to make my custom phone stand for real. I think this project will help me understand how to make things that can easily change and grow with what I need.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="50%" alt="Custom Keychain" src="assets/Rhino Modelling.png">
@@ -218,7 +223,9 @@ I tried to edit the parameters to the iPhone XR dimensions
     <img width="32%" alt="Custom Keychain" src="assets/Param.png">
 </div>
 
-However, it did not work at the first instant as the base thickness was limited and the CG was going outside the stability criteria, I hence had to change the angle of the phone to make it more stable.
+When I first tried to make my phone stand, I ran into a problem. The base I designed wasn't thick enough, which meant the center of gravity (CG) of my phone was outside the area that would keep it stable. This is because the CG is really important for keeping things from tipping over. If the CG is too far outside the base, the object will fall.
+
+To fix this, I had to think creatively. I decided to change the angle of how the phone sits on the stand. By adjusting the angle, I was able to bring the CG back inside the stable area. This made the whole stand much more stable, even with a thinner base. It was a good lesson for me in how small changes in design can make a big difference in how well something works. I learned that when designing things like phone stands, it's not just about how it looks, but also about understanding basic physics principles like center of gravity and stability.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="32%" alt="Custom Keychain" src="assets/Sizedifference.png">
@@ -226,6 +233,8 @@ However, it did not work at the first instant as the base thickness was limited 
 </div>
 
 It worked, the phone was more stable and I could bake the results instantly & then I tried to replace the base with a cylinder.
+
+#### Images
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="32%" alt="Custom Keychain" src="assets/Assemgood.png">
@@ -236,6 +245,7 @@ It worked, the phone was more stable and I could bake the results instantly & th
 They then created a 3D file to print the output so that I could use it.
 
 I also tried to make a model from scratch using Grasshopper, to keep things near my bed sorted.
+#### Images
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="32%" alt="Custom Keychain" src="assets/TableOnRhino.png">
@@ -247,8 +257,9 @@ I also tried to make a model from scratch using Grasshopper, to keep things near
 
 It was fun to play with parameters and very quick iterations. I see this being used with the technology and large learning models to build cad models faster. I also see me using this tool to enable me for fast prototyping and learn from failures faster.
 
+I've discovered that Rhino is a really cool software for building things, especially because it's parametric, which means I can edit my designs quickly and easily. I've decided to use it to make a phone stand that's perfect for my phone's dimensions. This way, I can keep my phone comfortably on my study table while I work. I was excited to input my phone's measurements and play around with different designs. I can adjust things like the angle of the stand, how tall it is, and even add a spot for my charging cable. What's great is that if I want to change anything, I can just tweak the numbers and the whole design will update automatically. This means I can experiment with different ideas until I get the stand just right for my study setup. 
 
-
+I'm looking forward to creating something that's not only useful but also perfectly tailored to my needs.
 
 
 
