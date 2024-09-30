@@ -200,6 +200,7 @@ I expected everything to work fine for the first instance itself, but I had to r
 # Week 2: Exploring Rhino Grasshopper and 3D Printing this week #
 ## Week of 09/07/2024
 
+### Reflections
 Rhino seems like an interesting software to build things as it is parametric and things can be edited quite quickly because of this. I wanted to make the phone stand for my phone dimensions so that I could keep it comfortably on my study table.
 
 Here's how it went like:
@@ -242,8 +243,9 @@ I also tried to make a model from scratch using Grasshopper, to keep things near
      <img width="32%" alt="Custom Keychain" src="assets/BoxforBed.jpeg">
 </div>
 
-It was fun to play with parameters and very quick iterations.
+#### Speculations
 
+It was fun to play with parameters and very quick iterations. I see this being used with the technology and large learning models to build cad models faster. I also see me using this tool to enable me for fast prototyping and learn from failures faster.
 
 
 
@@ -254,6 +256,8 @@ It was fun to play with parameters and very quick iterations.
 
 # Week 1: Personalizing My New Berkeley Home #
 ## Week of 09/05/2024
+
+### Reflections
 
 After moving to Berkeley, I moved to a new home and wanted to make it more personal space, hence this week I worked on mini projects for my study table and home.
 
