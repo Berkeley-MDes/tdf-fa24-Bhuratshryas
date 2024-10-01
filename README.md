@@ -100,8 +100,8 @@ Then went to on write a code that can make the LED's off when the button is pres
 
 I think this will be a very useful skill and will help me to work on projects that have hardware aspects to it. I look forward to playing more with photon, to build a interactive tool that can take data realtime in a hardware setting and transfer it to the software aspects, so that we can learn from the tools/wearable that we use, similar to smart watches and digital devices.
 
-### References:
-- Link to changing wifi's: https://docs.particle.io/tools/developer-tools/configure-wi-fi/
+### Quick Links:
+- Link to changing wifi's (Open on google): https://docs.particle.io/tools/developer-tools/configure-wi-fi/
 
 
 
