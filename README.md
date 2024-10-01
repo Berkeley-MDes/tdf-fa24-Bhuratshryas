@@ -78,12 +78,16 @@ Some playing videos:
     <img width="33%" alt="Blink Fast based on higher range on periodicity" src="assets/Adobe Express 2024-09-30 10.06.09.gif">    
 </div>
 
+#### 2 LED blinking setup
+
 I also tried to use 2 LED's electronic wiring, with one more digital read out in use, connections similar to prebvious one but for a new LED.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="50%" alt="Button Pressed shown on Terminal" src="assets/2 bulb code.gif">
     <img width="50%" alt="Blink Slow based on lower range on periodicity" src="assets/2 bulbs.gif">    
 </div>
+
+#### STOP & START when button is pressed for 3 LED's
 
 Then went to on write a code that can make the LED's off when the button is pressed and once it is pressed again the LED's periodicity is randomized for 3 LED Setup.
 
