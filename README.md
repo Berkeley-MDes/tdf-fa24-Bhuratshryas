@@ -68,8 +68,6 @@ Some playing videos:
     <img width="33%" alt="Micro Electronics Run" src="assets/Adobe Express 2024-09-30 10.09.06.gif">
 </div>
 
-
-
 Then I put all that I learnt about resisters, photon, delays, flashing, connecting it to internet and bread boards to blink a bulb with 3 volts of voltage using the diagram shared on how to make connections, I also had to add few resistors so that the current flow can be reduced suitable for both bulb and the button added to change the delay randomization for the software.
 
 The images/videos below show button pressed to change the speed of the delay (300 ms - 1000 ms & 30 ms to 300 ms), blinking fast and blinking slow based on button pressed to change the speed within the range.
@@ -120,22 +118,24 @@ The new feature is the variable pulse rate of the LED. This allows for multiple 
 
 #### Machine Learning
 
-- Pattern recognition: An ML model could analyze the timing and frequency of button presses to predict user intent or mood.
-- Adaptive response: The system could learn from user interactions over time to optimize the range of pulse rates for better user experience.
-- Anomaly detection: ML algorithms could identify unusual patterns of button presses that might indicate a malfunction or unauthorized use.
+- An ML model could analyze the timing and frequency of button presses to predict user intent or mood.
+- A system could learn from user interactions over time to optimize the range of pulse rates for better user experience.
+- ML algorithms could identify unusual patterns of button presses that might indicate a malfunction or unauthorized use.
 
 #### Larger Ecosystem
 
-- Smart home integration: The button and LED could be part of a wider home automation system, where the pulse rate indicates the status of various home systems.
-- Data collection: Button press patterns could be logged and analyzed to gain insights into user behavior or device usage over time.
-- Remote control: The button and LED could be connected to a network, allowing remote triggering or monitoring of the pulse rate.
-- Multi-device coordination: Multiple button-LED pairs could work together in a coordinated system, creating more complex interaction patterns or information displays.
+- The button and LED could be part of a wider home automation system, where the pulse rate indicates the status of various home systems.
+- Button press patterns could be logged and analyzed to gain insights into user behavior or device usage over time.
+- The button and LED could be connected to a network, allowing remote triggering or monitoring of the pulse rate.
+- Multiple button-LED pairs could work together in a coordinated system, creating more complex interaction patterns or information displays.
 
 -----------------------
 
 ### Project 2: FSR -> LED color
 
 #### Diagrammatic Analysis of a Microelectronics Project 2
+
+From my understanding of the project, the sensor takes input in numbers more than just binary, this is because as the pressure chnages with hand movements the resistance changes and it computes a value that is transmitted to the photon device and sent to the LED with some computation on numbers to be showed in R,G,B and it can be randomized even more.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="50%" alt="Button Setup" src="assets/fsr_to_ledcolor.png">
@@ -153,8 +153,6 @@ The project was really different as I could feel the sensor and the light in mor
 
 The key difference in this example is the use of a Force Sensitive Resistor (FSR) as the input device, replacing the button. This allows for a continuous range of input values based on applied pressure, rather than the binary on/off state of a button. The LED output is also different, changing color instead of pulse rate, providing a visual representation of the applied force.
 
-
-
 #### Similarities
 - Similar connection patterns in terms of voltage and ground connections that are required for the setup.
 - Both systems use an LED as the output device
@@ -167,22 +165,24 @@ The new feature is the color-changing capability of the LED. This allows for a m
 
 #### Machine Learning
 
-- Pressure prediction: An ML model could learn to predict the amount of force applied based on subtle changes in the FSR readings.
-- User identification: Machine learning algorithms could potentially identify different users based on their unique pressure patterns when interacting with the FSR.
-- Adaptive calibration: Over time, an ML system could adjust the color mapping to optimize visibility or to compensate for wear on the FSR.
+- An ML model could learn to predict the amount of force applied based on subtle changes in the FSR readings.
+- Machine learning algorithms could potentially identify different users based on their unique pressure patterns when interacting with the FSR.
+- Over time, an ML system could adjust the color mapping to optimize visibility or to compensate for wear on the FSR.
 
 #### Larger Ecosystem
 
-- Haptic feedback systems: The color output could be part of a larger haptic interface, providing visual cues alongside tactile feedback.
-- Accessibility tools: The system could be used to create pressure-sensitive input devices for individuals with limited mobility, with color output providing clear visual feedback.
-- Interactive art installations: Multiple FSR-LED units could be combined to create large-scale, interactive light displays responding to audience touch.
-- Sports and fitness equipment: The technology could be incorporated into exercise machines or sports gear to provide immediate visual feedback on applied force or technique.
+- The color output could be part of a larger haptic interface, providing visual cues alongside tactile feedback.
+- The system could be used to create pressure-sensitive input devices for individuals with limited mobility, with color output providing clear visual feedback.
+- Multiple FSR-LED units could be combined to create large-scale, interactive light displays responding to audience touch.
+- The technology could be incorporated into exercise machines or sports gear to provide immediate visual feedback on applied force or technique.
 
 -----------------------
 
 ### Project 3: Button send-on-change
 
 #### Diagrammatic Analysis of a Microelectronics Project 3
+
+From my understanding of the project, this was more hands on towards sending the data to cloud when a button is pressed, similar to above setup but goes deeper into state variables that changes when there is change in input and i see possibilities of this being used in different settings.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="50%" alt="Button Setup" src="assets/basic_button_soc_fritz.png">
@@ -217,20 +217,16 @@ The new feature is the conditional publishing of data based on state changes. Th
 
 #### Larger Ecosystem
 
-- Smart home integration: The button could trigger various actions in a connected home environment.
-- Data analytics: Button press patterns could be logged and analyzed for user behavior insights4.
-- Remote monitoring and control: The system could be part of a larger network of devices, allowing for remote status checks and control4.
-- Sensor fusion: The button data could be combined with other sensor inputs (e.g., temperature, motion) for more complex decision-making in IoT applications
+- The button could trigger various actions in a connected home environment.
+- Button press patterns could be logged and analyzed for user behavior insights4.
+- The system could be part of a larger network of devices, allowing for remote status checks and control4.
+- The button data could be combined with other sensor inputs (e.g., temperature, motion) for more complex decision-making in IoT applications
 
 -----------------------
 
 ### Speculations
 
-I think this will be a very useful skill and will help me to work on projects that have hardware aspects to it. I look forward to playing more with photon, to build a interactive tool that can take data realtime in a hardware setting and transfer it to the software aspects, so that we can learn from the tools/wearable that we use, similar to smart watches and digital devices.
-
-I am excited to delve into the world of hardware-software integration, particularly using devices like Photon. This will allow me to create interactive tools that can collect real-time data from the physical environment and transmit it to software systems for analysis. I see this as a valuable skill that will enable me to work on projects with both hardware and software components, similar to the technology used in smart watches and other digital devices.
-
-From building simple sensor-based projects to developing more complex wearable devices. By honing my skills in hardware programming, data communication, and software development, I'll be able to create innovative solutions that bridge the gap between the physical and digital worlds. This knowledge will not only enhance my understanding of Internet of Things (IoT) concepts but also open up new opportunities for me to contribute to fields such as health monitoring, smart home technology, and industrial automation.
+I think this will be a very useful skill and will help me to work on projects that have hardware aspects to it. I look forward to playing more with photon, to build a interactive tool that can take data realtime in a hardware setting and transfer it to the software aspects, so that we can learn from the tools/wearable that we use, similar to smart watches and digital devices. I am excited to delve into the world of hardware-software integration, particularly using devices like Photon. This will allow me to create interactive tools that can collect real-time data from the physical environment and transmit it to software systems for analysis. I see this as a valuable skill that will enable me to work on projects with both hardware and software components, similar to the technology used in smart watches and other digital devices. From building simple sensor-based projects to developing more complex wearable devices. By honing my skills in hardware programming, data communication, and software development, I'll be able to create innovative solutions that bridge the gap between the physical and digital worlds. This knowledge will not only enhance my understanding of Internet of Things (IoT) concepts but also open up new opportunities for me to contribute to fields such as health monitoring, smart home technology, and industrial automation.
 
 
 ### Quick Links:
