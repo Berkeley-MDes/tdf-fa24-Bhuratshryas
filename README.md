@@ -105,8 +105,17 @@ I think this will be a very useful skill and will help me to work on projects th
 -----------------------
 
 ### FSR -> LED color
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="33%" alt="FSR Setup" src="assets/Thumb 1.jpeg">
+    <img width="33%" alt="FSR Setup" src="assets/Thumb 2.jpeg">    
+    <img width="33%" alt="FSR Setup" src="assets/Thumb GIF.gif">    
+</div>
+
 Consider the following:
 how do these demo projects differ from what we've looked at already in the prior examples?
+
+
 What are some similarities?
 How might the demonstrations be expanded to include a new feature? What is the feature that would be most relevant to your life?
 How might Machine Learning play a role in the system you are imagining?
@@ -114,7 +123,23 @@ Can you imagine the examples being combined into a larger ecosystem? What would 
 
 -----------------------
 
-### FSR -> LED color
+### Button send-on-change
+
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="assets/Button press to change.gif">
+    <img width="40%" alt="assets/Button press to change GIF.gif">    
+</div>
+
+Consider the following:
+how do these demo projects differ from what we've looked at already in the prior examples?
+What are some similarities?
+How might the demonstrations be expanded to include a new feature? What is the feature that would be most relevant to your life?
+How might Machine Learning play a role in the system you are imagining?
+Can you imagine the examples being combined into a larger ecosystem? What would that system look like?
+
+
+
 
 ### Quick Links:
 - Link to changing wifi's (Open on google): https://docs.particle.io/tools/developer-tools/configure-wi-fi/
