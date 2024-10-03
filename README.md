@@ -27,7 +27,9 @@ To improve the quality of life.
 
 ### Reflections
 
-This weekend, I worked on playing with Photon, to connect it to internet, add some electronics components on a bread board and play with bliking a bulb. 
+This weekend, I delved into the world of electronics and IoT (Internet of Things) using a Photon device. I started by connecting the Photon to the internet, which allowed me to control and monitor it remotely. Then, I set up a breadboard, which is a platform for prototyping electronic circuits without soldering. On this breadboard, I added various electronic components to experiment with.
+
+My first project was to make an LED bulb blink, which is often considered the "Hello World" of hardware programming. I tried different patterns and speeds of blinking to understand how to control the timing. Next, I explored the use of sensors. I worked with a pressure sensor, which is an analog sensor that provides a range of values, and a button, which is a digital sensor that gives either an on or off signal. I connected these sensors to the Photon and observed the data they produced on the serial monitor, which is a tool that displays the output from the device.
 
 I first began with connecting my photon with the home internet, it was easy to follow to tutorials to get it connected to the internet.
 
@@ -49,8 +51,11 @@ Some playing videos:
     <img width="33%" alt="Priting Shryas Bhurat with different delay rates" src="assets/Adobe Express 2024-09-30 10.23.29.gif">
 </div>
 
+-----------------------
 
-### Diagrammatic Analysis of a Microelectronics Project
+### Project 1: Button -> LED pulse rate
+
+#### Diagrammatic Analysis of a Microelectronics Project
 
 Some playing videos:
 1. Micro Electronics Circuit.
@@ -63,7 +68,7 @@ Some playing videos:
     <img width="33%" alt="Micro Electronics Run" src="assets/Adobe Express 2024-09-30 10.09.06.gif">
 </div>
 
-### Button -> LED pulse rate
+
 
 Then I put all that I learnt about resisters, photon, delays, flashing, connecting it to internet and bread boards to blink a bulb with 3 volts of voltage using the diagram shared on how to make connections, I also had to add few resistors so that the current flow can be reduced suitable for both bulb and the button added to change the delay randomization for the software.
 
@@ -80,7 +85,7 @@ Some playing videos:
     <img width="33%" alt="Blink Fast based on higher range on periodicity" src="assets/Adobe Express 2024-09-30 10.06.09.gif">    
 </div>
 
-#### 2 LED blinking setup
+#### 2 LED's blinking setup (Experiment)
 
 I also tried to use 2 LED's electronic wiring, with one more digital read out in use, connections similar to prebvious one but for a new LED.
 
@@ -89,7 +94,7 @@ I also tried to use 2 LED's electronic wiring, with one more digital read out in
     <img width="50%" alt="Blink Slow based on lower range on periodicity" src="assets/2 bulbs.gif">    
 </div>
 
-#### STOP & START when button is pressed for 3 LED's
+#### STOP & START when button is pressed for 3 LED's (Experiment)
 
 Then went to on write a code that can make the LED's off when the button is pressed and once it is pressed again the LED's periodicity is randomized for 3 LED Setup.
 
@@ -98,13 +103,43 @@ Then went to on write a code that can make the LED's off when the button is pres
     <img width="40%" alt="Blink Slow based on lower range on periodicity" src="assets/3 bulbs.gif">    
 </div>
 
-### Speculations
+#### Difference
 
-I think this will be a very useful skill and will help me to work on projects that have hardware aspects to it. I look forward to playing more with photon, to build a interactive tool that can take data realtime in a hardware setting and transfer it to the software aspects, so that we can learn from the tools/wearable that we use, similar to smart watches and digital devices.
+The key difference in this example is the introduction of variable pulse rates for the LED based on button presses. Instead of a simple on/off state, the LED's blinking speed changes dynamically in response to user input. This creates a more interactive and nuanced output compared to a basic button-controlled LED circuit.
+
+
+#### Similarities
+- Both systems use a button as an input device
+- An LED is used as the output in both cases
+- The basic principle of user interaction triggering a change in the LED's state is maintained
+
+
+#### New Feature
+
+The new feature is the variable pulse rate of the LED. This allows for multiple states or "levels" of output, providing more information to the user than a simple on/off LED. The pulse rate could potentially convey different meanings or intensity levels, making the system more expressive and informative.
+
+#### Machine Learning
+
+- Pattern recognition: An ML model could analyze the timing and frequency of button presses to predict user intent or mood.
+- Adaptive response: The system could learn from user interactions over time to optimize the range of pulse rates for better user experience.
+- Anomaly detection: ML algorithms could identify unusual patterns of button presses that might indicate a malfunction or unauthorized use.
+
+#### Larger Ecosystem
+
+- Smart home integration: The button and LED could be part of a wider home automation system, where the pulse rate indicates the status of various home systems.
+- Data collection: Button press patterns could be logged and analyzed to gain insights into user behavior or device usage over time.
+- Remote control: The button and LED could be connected to a network, allowing remote triggering or monitoring of the pulse rate.
+- Multi-device coordination: Multiple button-LED pairs could work together in a coordinated system, creating more complex interaction patterns or information displays.
 
 -----------------------
 
-### FSR -> LED color
+### Project 2: FSR -> LED color
+
+#### Diagrammatic Analysis of a Microelectronics Project 2
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="Button Setup" src="assets/fsr_to_ledcolor.png">
+</div>
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="33%" alt="FSR Setup" src="assets/Thumb 1.jpeg">
@@ -112,18 +147,47 @@ I think this will be a very useful skill and will help me to work on projects th
     <img width="33%" alt="FSR Setup" src="assets/Thumb GIF.gif">    
 </div>
 
-Consider the following:
-how do these demo projects differ from what we've looked at already in the prior examples?
+#### Difference
+
+The project was really different as I could feel the sensor and the light in more interactive way than a normal button. The FSR sensors are pretty good and detecting pressure's and compute the values for resistance, which is anolog to the digital sensors with only binary values.
+
+The key difference in this example is the use of a Force Sensitive Resistor (FSR) as the input device, replacing the button. This allows for a continuous range of input values based on applied pressure, rather than the binary on/off state of a button. The LED output is also different, changing color instead of pulse rate, providing a visual representation of the applied force.
 
 
-What are some similarities?
-How might the demonstrations be expanded to include a new feature? What is the feature that would be most relevant to your life?
-How might Machine Learning play a role in the system you are imagining?
-Can you imagine the examples being combined into a larger ecosystem? What would that system look like?
+
+#### Similarities
+- Similar connection patterns in terms of voltage and ground connections that are required for the setup.
+- Both systems use an LED as the output device
+- User interaction is still the primary trigger for changes in the LED's state
+- The basic principle of input affecting output is maintained
+
+#### New Feature
+
+The new feature is the color-changing capability of the LED. This allows for a more nuanced and visually diverse output compared to a single-color LED. The color spectrum can represent a wide range of input values, potentially providing more detailed information about the force being applied to the FSR.
+
+#### Machine Learning
+
+- Pressure prediction: An ML model could learn to predict the amount of force applied based on subtle changes in the FSR readings.
+- User identification: Machine learning algorithms could potentially identify different users based on their unique pressure patterns when interacting with the FSR.
+- Adaptive calibration: Over time, an ML system could adjust the color mapping to optimize visibility or to compensate for wear on the FSR.
+
+#### Larger Ecosystem
+
+- Haptic feedback systems: The color output could be part of a larger haptic interface, providing visual cues alongside tactile feedback.
+- Accessibility tools: The system could be used to create pressure-sensitive input devices for individuals with limited mobility, with color output providing clear visual feedback.
+- Interactive art installations: Multiple FSR-LED units could be combined to create large-scale, interactive light displays responding to audience touch.
+- Sports and fitness equipment: The technology could be incorporated into exercise machines or sports gear to provide immediate visual feedback on applied force or technique.
 
 -----------------------
 
-### Button send-on-change
+### Project 3: Button send-on-change
+
+#### Diagrammatic Analysis of a Microelectronics Project 3
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="Button Setup" src="assets/basic_button_soc_fritz.png">
+</div>
+
 
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
@@ -131,14 +195,42 @@ Can you imagine the examples being combined into a larger ecosystem? What would 
     <img width="40%" alt="Button Setup" src="assets/Button press to change GIF.gif">    
 </div>
 
-Consider the following:
-how do these demo projects differ from what we've looked at already in the prior examples?
-What are some similarities?
-How might the demonstrations be expanded to include a new feature? What is the feature that would be most relevant to your life?
-How might Machine Learning play a role in the system you are imagining?
-Can you imagine the examples being combined into a larger ecosystem? What would that system look like?
+#### Difference
+
+The key difference in this example is the implementation of a state-change-based data transmission system (key term). Unlike simple button-press detection, this approach only sends data to the Particle.io cloud when the button's state changes from pressed to released or vice versa. This  can result in more efficient use of network resources and power.
 
 
+#### Similarities
+- Uses a button as an input device, similar to basic button circuits
+- Employs an LED for visual feedback, a common practice in many IoT projects
+- Utilizes a microcontroller (Photon 2) for processing and control, typical in IoT applications
+
+#### New Feature
+
+The new feature is the conditional publishing of data based on state changes. This approach introduces a more sophisticated event-driven programming model, where data is only sent when there's a meaningful change in the input state.
+
+#### Machine Learning
+
+- Pattern recognition: The timing and frequency of button presses could be analyzed to predict user behavior or detect anomalies.
+- Adaptive debouncing: ML algorithms could optimize the debounce delay based on usage patterns.
+- Predictive maintenance: By analyzing button press patterns over time, ML models could predict when the button might fail or require maintenance
+
+#### Larger Ecosystem
+
+- Smart home integration: The button could trigger various actions in a connected home environment.
+- Data analytics: Button press patterns could be logged and analyzed for user behavior insights4.
+- Remote monitoring and control: The system could be part of a larger network of devices, allowing for remote status checks and control4.
+- Sensor fusion: The button data could be combined with other sensor inputs (e.g., temperature, motion) for more complex decision-making in IoT applications
+
+-----------------------
+
+### Speculations
+
+I think this will be a very useful skill and will help me to work on projects that have hardware aspects to it. I look forward to playing more with photon, to build a interactive tool that can take data realtime in a hardware setting and transfer it to the software aspects, so that we can learn from the tools/wearable that we use, similar to smart watches and digital devices.
+
+I am excited to delve into the world of hardware-software integration, particularly using devices like Photon. This will allow me to create interactive tools that can collect real-time data from the physical environment and transmit it to software systems for analysis. I see this as a valuable skill that will enable me to work on projects with both hardware and software components, similar to the technology used in smart watches and other digital devices.
+
+From building simple sensor-based projects to developing more complex wearable devices. By honing my skills in hardware programming, data communication, and software development, I'll be able to create innovative solutions that bridge the gap between the physical and digital worlds. This knowledge will not only enhance my understanding of Internet of Things (IoT) concepts but also open up new opportunities for me to contribute to fields such as health monitoring, smart home technology, and industrial automation.
 
 
 ### Quick Links:
