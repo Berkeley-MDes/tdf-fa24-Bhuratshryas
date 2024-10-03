@@ -63,6 +63,8 @@ Some playing videos:
     <img width="33%" alt="Micro Electronics Run" src="assets/Adobe Express 2024-09-30 10.09.06.gif">
 </div>
 
+### Button -> LED pulse rate
+
 Then I put all that I learnt about resisters, photon, delays, flashing, connecting it to internet and bread boards to blink a bulb with 3 volts of voltage using the diagram shared on how to make connections, I also had to add few resistors so that the current flow can be reduced suitable for both bulb and the button added to change the delay randomization for the software.
 
 The images/videos below show button pressed to change the speed of the delay (300 ms - 1000 ms & 30 ms to 300 ms), blinking fast and blinking slow based on button pressed to change the speed within the range.
@@ -99,6 +101,20 @@ Then went to on write a code that can make the LED's off when the button is pres
 ### Speculations
 
 I think this will be a very useful skill and will help me to work on projects that have hardware aspects to it. I look forward to playing more with photon, to build a interactive tool that can take data realtime in a hardware setting and transfer it to the software aspects, so that we can learn from the tools/wearable that we use, similar to smart watches and digital devices.
+
+-----------------------
+
+### FSR -> LED color
+Consider the following:
+how do these demo projects differ from what we've looked at already in the prior examples?
+What are some similarities?
+How might the demonstrations be expanded to include a new feature? What is the feature that would be most relevant to your life?
+How might Machine Learning play a role in the system you are imagining?
+Can you imagine the examples being combined into a larger ecosystem? What would that system look like?
+
+-----------------------
+
+### FSR -> LED color
 
 ### Quick Links:
 - Link to changing wifi's (Open on google): https://docs.particle.io/tools/developer-tools/configure-wi-fi/
