@@ -127,8 +127,8 @@ Can you imagine the examples being combined into a larger ecosystem? What would 
 
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img width="50%" alt="assets/Button press to change.gif">
-    <img width="40%" alt="assets/Button press to change GIF.gif">    
+    <img width="50%" alt="Button Setup" src="assets/Button press to change.gif">
+    <img width="40%" alt="Button Setup" src="assets/Button press to change GIF.gif">    
 </div>
 
 Consider the following:
