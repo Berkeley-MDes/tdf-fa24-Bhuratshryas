@@ -39,6 +39,8 @@ I got my hands dirty to solder the stemma chip and got some shots taken of me du
     <img width="33%" alt="FSR Setup" src="assets/6 Me soldering.jpeg">
     <img width="33%" alt="FSR Setup" src="assets/6 Soldering.jpeg">      
 </div>
+(Videos Loading)
+
 
 #### Sensor 1: MPU6050 (Acceleration)
 Running the sensor, after making a basic LED circuit for me to ensure the code is running and connecting the MPU6050 sensor to the device so that I can get consistent outputs. The output delay seemed to be very low, because it was instantaneous values, played around rotating the sensor, to see values change and it did!
@@ -47,6 +49,7 @@ Running the sensor, after making a basic LED circuit for me to ensure the code i
     <img width="33%" alt="FSR Setup" src="assets/6 Output Screen.gif">
     <img width="33%" alt="FSR Setup" src="assets/6 Sensor Video.gif">     
 </div>
+(Videos Loading)
 
 #### Sensor 2: APDS9960 (Gesture and Color)
 
@@ -57,6 +60,7 @@ Running the sensor, after making a basic LED circuit for me to ensure the code i
     <img width="33%" alt="FSR Setup" src="assets/6 Gesture Control Code.gif">
     <img width="33%" alt="FSR Setup" src="assets/6 Gesture Control.gif">
 </div>
+(Videos Loading)
 
 ### Speculations
 I see myself using this sensor for applications that require feedback fast, something as autonomous drones, vehicles, and other devices while recognizing the external environments instantly. Saw some videos on using this sensor to build a self-balancing robot and it was fun watching them.
