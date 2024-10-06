@@ -26,17 +26,34 @@ To improve the quality of life.
 ## Week of 10/10/2024
 
 ### Reflections
+I tried out the Soldering, importing libraries, playing with the MPU6050 sensor, and looking into outputs to look for innovative devices that can be made using this sensor. It was really fun to understand, how quickly the device was sensing movements, can be used for very high applications like building a drone because the feedback rate was really fast. I might use this sensor a lot of times.
 
-#### Diagrammatic Analysis of a Microelectronics Project
+#### Analysis
+I started by soldering the stemma chip, to help me connect with other auxiliary sensors then connecting the photon to my home wifi and adding libraries to the visual studio code to run the MPU6050 sensor, the code shared showed LED output at D7, so built an led connection quickly and gave it a run, it complied fast.
 
 #### Videos & Images
+
+I got my hands dirty to solder the stemma chip and got some shots taken of me during the process for the report.
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img width="33%" alt="FSR Setup" src="assets/Thumb 1.jpeg">
-    <img width="33%" alt="FSR Setup" src="assets/Thumb 2.jpeg">    
-    <img width="33%" alt="FSR Setup" src="assets/Thumb GIF.gif">    
+    <img width="33%" alt="FSR Setup" src="assets/6 Me soldering.jpeg">
+    <img width="33%" alt="FSR Setup" src="assets/6 Soldering.jpeg">      
 </div>
 
+Running the sensor, after making a basic LED circuit for me to ensure the code is running and connecting the MPU6050 sensor to the device so that I can get consistent outputs. The output delay seemed to be very less, because it was instantaneous values, played around rotating the sensor, to see values change and it did!
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="33%" alt="FSR Setup" src="assets/6 Output Screen.gif">
+    <img width="33%" alt="FSR Setup" src="assets/6 Sensor Video.gif">     
+</div>
+
+
 ### Speculations
+I see myself using this sensor for applications that require feedback fast, something like autonomous drones, vehicles, and other devices. Saw some videos on using this sensor to build a self-balancing robot and it was fun watching them.
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">  
+    <img width="33%" alt="FSR Setup" src="assets/6 Balancing Car.gif">    
+</div>
+
 
 ---------------------------------------------------------------------------------------------------------
 
