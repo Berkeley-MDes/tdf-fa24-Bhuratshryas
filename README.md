@@ -18,7 +18,26 @@ To improve the quality of life.
 [week 2](README.md#week-2-Exploring-Rhino-Grasshopper-and-3D-Printing-this-week) ,
 [week 3](README.md#week-3-putting-all-skills-into-work) ,
 [week 4](README.md#week-4-moving-towards-building-interactive-tools) ,
-[week 5](README.md#week-5-playing-with-photon) 
+[week 5](README.md#week-5-playing-with-photon) ,
+[week 6](README.md#week-5-playing-with-sensors) 
+
+---------------------------------------------------------------------------------------------------------
+
+# Week 6: Playing with sensors
+## Week of 10/10/2024
+
+### Reflections
+
+#### Diagrammatic Analysis of a Microelectronics Project
+
+#### Videos & Images
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="33%" alt="FSR Setup" src="assets/Thumb 1.jpeg">
+    <img width="33%" alt="FSR Setup" src="assets/Thumb 2.jpeg">    
+    <img width="33%" alt="FSR Setup" src="assets/Thumb GIF.gif">    
+</div>
+
+### Speculations
 
 ---------------------------------------------------------------------------------------------------------
 
