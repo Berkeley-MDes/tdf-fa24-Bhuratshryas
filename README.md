@@ -62,6 +62,18 @@ Running the sensor, after making a basic LED circuit for me to ensure the code i
 </div>
 (Videos Loading)
 
+Possible alterations:
+The demo firmware doesn't do much, aside from outputting log data to the serial port.
+Can you map these values to other processes in the firmware code? What might that look like? What sort of feasibility experiments are in the way?
+You might try out using the map() function! What sort of output range would you need if you were goign to output values for an LED?
+If you don't know exactly what range of values you're getting from a sensor, try printing to the serial monitor with Log().
+Are the values noisy, and possibly lying outside of an expected range? Try using the constrain() to clamp things down a bit before performing your mapping.
+How might you smooth out the values?
+Secondary feasibility experiments:
+How might you send the values from your sensors to other output components?
+What about sharing those values with a partner in the class, using Particle.publish() and Particle.subscribe() ?
+Document your design/considerations as a diagram in your report.
+
 ### Speculations
 I see myself using this sensor for applications that require feedback fast, something as autonomous drones, vehicles, and other devices while recognizing the external environments instantly. Saw some videos on using this sensor to build a self-balancing robot and it was fun watching them.
 
