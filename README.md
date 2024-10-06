@@ -38,6 +38,7 @@ I got my hands dirty to solder the stemma chip and got some shots taken of me du
     <img width="33%" alt="FSR Setup" src="assets/6 Me soldering.jpeg">
     <img width="33%" alt="FSR Setup" src="assets/6 Soldering.jpeg">      
 </div>
+(Videos Loading)
 
 Running the sensor, after making a basic LED circuit for me to ensure the code is running and connecting the MPU6050 sensor to the device so that I can get consistent outputs. The output delay seemed to be very less, because it was instantaneous values, played around rotating the sensor, to see values change and it did!
 
@@ -45,7 +46,7 @@ Running the sensor, after making a basic LED circuit for me to ensure the code i
     <img width="33%" alt="FSR Setup" src="assets/6 Output Screen.gif">
     <img width="33%" alt="FSR Setup" src="assets/6 Sensor Video.gif">     
 </div>
-
+(Videos Loading)
 
 ### Speculations
 I see myself using this sensor for applications that require feedback fast, something like autonomous drones, vehicles, and other devices. Saw some videos on using this sensor to build a self-balancing robot and it was fun watching them.
@@ -53,7 +54,7 @@ I see myself using this sensor for applications that require feedback fast, some
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">  
     <img width="33%" alt="FSR Setup" src="assets/6 Balancing Car.gif">    
 </div>
-
+(Videos Loading)
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -72,6 +73,7 @@ I first began with connecting my photon with the home internet, it was easy to f
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="33%" alt="Connecting to Home Network" src="assets/Connecting to home network.png">
 </div>
+(Videos Loading)
 
 Then I ran few codes on printing Hello world in different ways, with different delays to understand on how to flash photon software, what happens during compilation, how to look at serial monitor, go deeper into delays and why they are important, below are my iterations.
 
@@ -85,6 +87,7 @@ Some playing videos:
     <img width="33%" alt="Printing Shryas Bhurat but one word in a line" src="assets/Adobe Express 2024-09-30 10.19.10.gif">
     <img width="33%" alt="Priting Shryas Bhurat with different delay rates" src="assets/Adobe Express 2024-09-30 10.23.29.gif">
 </div>
+(Videos Loading)
 
 -----------------------
 
@@ -102,6 +105,7 @@ Some playing videos:
     <img width="33%" alt="Micro Electronics Setup" src="assets/Adobe Express 2024-09-30 10.13.17.gif">
     <img width="33%" alt="Micro Electronics Run" src="assets/Adobe Express 2024-09-30 10.09.06.gif">
 </div>
+(Videos Loading)
 
 Then I put all that I learnt about resisters, photon, delays, flashing, connecting it to internet and bread boards to blink a bulb with 3 volts of voltage using the diagram shared on how to make connections, I also had to add few resistors so that the current flow can be reduced suitable for both bulb and the button added to change the delay randomization for the software.
 
@@ -117,6 +121,7 @@ Some playing videos:
     <img width="33%" alt="Blink Slow based on lower range on periodicity" src="assets/Adobe Express 2024-09-30 10.09.06.gif">  
     <img width="33%" alt="Blink Fast based on higher range on periodicity" src="assets/Adobe Express 2024-09-30 10.06.09.gif">    
 </div>
+(Videos Loading)
 
 #### 2 LED's blinking setup (Experiment)
 
@@ -135,6 +140,7 @@ Then went to on write a code that can make the LED's off when the button is pres
     <img width="50%" alt="Button Pressed shown on Terminal" src="assets/3 buble code.gif">
     <img width="40%" alt="Blink Slow based on lower range on periodicity" src="assets/3 bulbs.gif">    
 </div>
+(Videos Loading)
 
 #### Difference
 
@@ -181,6 +187,7 @@ From my understanding of the project, the sensor takes input in numbers more tha
     <img width="33%" alt="FSR Setup" src="assets/Thumb 2.jpeg">    
     <img width="33%" alt="FSR Setup" src="assets/Thumb GIF.gif">    
 </div>
+(Videos Loading)
 
 #### Difference
 
@@ -229,6 +236,7 @@ From my understanding of the project, this was more hands on towards sending the
     <img width="50%" alt="Button Setup" src="assets/Button press to change.gif">
     <img width="40%" alt="Button Setup" src="assets/Button press to change GIF.gif">    
 </div>
+(Videos Loading)
 
 #### Difference
 
@@ -312,6 +320,7 @@ Here is a diagram to show how things relate to each other with feedbacks that th
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="200%" alt="Custom Keychain" src="assets/Digital Ecosystems.png">
 </div>
+(Videos Loading)
 
 ### System Interaction put to action
 
@@ -320,6 +329,7 @@ Here is a diagram to show how things relate to each other with feedbacks that th
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="60%" alt="Custom Keychain" src="assets/IMG_7711.jpg">
 </div>
+(Videos Loading)
 
 - problem: every minute matters in an emergency scenario and response can be slowed down by manual operation and human error
 - solution: an ai voice workflow to help automate triaging and response 
@@ -334,6 +344,7 @@ Here is a diagram to show how things relate to each other with feedbacks that th
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="60%" alt="Custom Keychain" src="assets/Interactive System for Rapid Response.jpeg">
 </div>
+(Videos Loading)
 
 
 This is the framework that helped me understand how machines interact with each other and transfer data to optimize processes.
