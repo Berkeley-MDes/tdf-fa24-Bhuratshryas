@@ -4,7 +4,13 @@
 
 I'm [**Shryas Bhurat**](https://www.shryasbhurat.com), an **Engineer**, **Designer**, & **Technologist**.
 
-Incredibly passionate about merging Science, Design, Technology & Entrepreneurship, to improve the quality of life.
+Incredibly passionate about merging 
+- Science
+- Design
+- Technology
+- Entrepreneurship
+
+To improve the quality of life.
 
 # TDF Weekly Progress
 [week 1](README.md#week-1-personalizing-my-new-berkeley-home) , 
