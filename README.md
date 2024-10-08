@@ -62,17 +62,25 @@ Running the sensor, after making a basic LED circuit for me to ensure the code i
 </div>
 (Videos Loading)
 
-Possible alterations:
-The demo firmware doesn't do much, aside from outputting log data to the serial port.
-Can you map these values to other processes in the firmware code? What might that look like? What sort of feasibility experiments are in the way?
-You might try out using the map() function! What sort of output range would you need if you were goign to output values for an LED?
-If you don't know exactly what range of values you're getting from a sensor, try printing to the serial monitor with Log().
-Are the values noisy, and possibly lying outside of an expected range? Try using the constrain() to clamp things down a bit before performing your mapping.
-How might you smooth out the values?
-Secondary feasibility experiments:
-How might you send the values from your sensors to other output components?
-What about sharing those values with a partner in the class, using Particle.publish() and Particle.subscribe() ?
-Document your design/considerations as a diagram in your report.
+
+### Alterations to make the LED blink faster and slower based on proximity
+
+This utilizes the APDS9960 proximity sensor to control the blinking rate of an LED connected to pin D7 on a Particle device. The sensor continuously measures the proximity of objects, returning values between 0 and 255. These proximity values are then mapped to a blinking interval range of 50 to 1000 milliseconds. As objects move closer to the sensor, the proximity value increases, resulting in a shorter blinking interval and thus a faster blinking rate for the LED. Conversely, when objects are farther away or not detected, the proximity value decreases, leading to a longer blinking interval and a slower blinking rate. The code uses the `millis()` function to track time and toggle the LED state based on the calculated interval, creating a dynamic visual feedback system that responds to the presence and distance of nearby objects.
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="33%" alt="FSR Setup" src="assets/6 Code the blinks faster.gif">
+    <img width="33%" alt="FSR Setup" src="assets/6 video that blinks faster.gif">
+</div>
+(Videos Loading)
+
+### Diagrammatic Analysis
+
+The diagram illustrates the proximity-based LED blinking system. The central node is "Proximity-Based LED Blinking," branching into four main areas: "Hardware Setup," "Proximity Detection," "LED Control," and "System Logic." Each branch represents a component or process involved in the system's operation.
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="FSR Setup" src="assets/Group 6.png">
+</div>
+
 
 ### Speculations
 I see myself using this sensor for applications that require feedback fast, something as autonomous drones, vehicles, and other devices while recognizing the external environments instantly. Saw some videos on using this sensor to build a self-balancing robot and it was fun watching them.
