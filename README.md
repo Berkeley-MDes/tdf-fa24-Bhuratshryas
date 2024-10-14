@@ -54,8 +54,8 @@ Green: Safe or low-level alert.
 - Feedback Loop: The system continuously updates based on inputs from sensors, adjusting the RGB LED’s color and vibration intensity accordingly, while keeping cloud communication active for alert distribution to nearby devices.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img width="33%" alt="FSR Setup" src="assets/7 Technical Map.png">
-    <img width="33%" alt="FSR Setup" src="assets/7 Map.png">      
+    <img width="50%" alt="FSR Setup" src="assets/7 Technical Map.png">
+    <img width="50%" alt="FSR Setup" src="assets/7 Map.png">      
 </div>
 
 #### Videos & Images
