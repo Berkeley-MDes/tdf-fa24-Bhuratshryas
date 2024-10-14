@@ -18,7 +18,24 @@ To improve the quality of life.
 [week 3](README.md#week-3-putting-all-skills-into-work) ,
 [week 4](README.md#week-4-moving-towards-building-interactive-tools) ,
 [week 5](README.md#week-5-playing-with-photon) ,
-[week 6](README.md#week-6-playing-with-sensors) 
+[week 6](README.md#week-6-playing-with-sensors) ,
+[week 7](README.md#week-7-building-safe) 
+
+---------------------------------------------------------------------------------------------------------
+
+# Week 7: Building Safe
+## Week of 10/14/2024
+
+### Reflections
+
+#### Analysis
+
+#### Videos & Images
+
+### Diagrammatic Analysis
+
+### Speculations
+
 
 ---------------------------------------------------------------------------------------------------------
 
