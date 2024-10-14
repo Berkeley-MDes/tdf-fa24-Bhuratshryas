@@ -27,15 +27,66 @@ To improve the quality of life.
 ## Week of 10/14/2024
 
 ### Reflections
+As Berkeley students, we constantly receive messages from the Berkeley Warn Me system of potential hazards and crimes around the campus area. Most people shrug off the information believing it is irrelevant to them or disregarding its seriousness. The event's exact location is often forgotten or ignored, which could render the Warn Me system useless. Our objective is to design a comprehensive physical system that alerts users when they are near or in contact with a ‘Warn Me’ Zone. Zones are detected using a loudness sensor, gas sensor, and button which give coordinates of a potential zone. LEDs and Vibrating Motors let the user know if they are in proximity to the location.
+
+#### Team Member Roles
+
+- Shryas Bhurat, 03-Axolotl:  API and web API calls, Interaction with other photons, GPS Proximity, Management
+- Sun-Q Kim 03-Axolotl: Gas Sensor, Loudness Sensor, Product design
+- Mia Wu 03-Axolotl: Button, RGB LED, Vibrating Mini Motor, Battery Management, Product design
+
 
 #### Analysis
 
+##### Process or sequence diagram
+
+###### Sensor Inputs:
+- Loudness Sensor: Continuously monitors for loud, gunshot-like sounds.
+- Gas Sensor: Detects the presence of harmful gases indicating fire or dangerous fumes.
+- Button: Manually triggered by the user to send an alert.
+- Photon 2 Microcontroller: Receives inputs from the loudness sensor, gas sensor, and button. Processes the input to determine the danger level (e.g., gunshot detected, gas detected, or manual alert) and activates the appropriate response.
+
+###### Outputs:
+-RGB LED (Common Cathode): The color of the LED changes based on the severity of the detected danger. For example:
+Green: Safe or low-level alert.
+- Red: High danger, such as a detected gunshot or significant gas leak. Vibration (Haptic Motor Controller and Vibrating Mini Motor): The system activates the vibration motor for physical feedback when any danger is detected, enhancing user awareness.
+- Cloud Communication: Upon detecting an alert from any sensor or button press, the Photon 2 sends data to Particle Cloud, which manages the distribution of alerts. Alerts are broadcasted to nearby devices, which respond by activating their own RGB LEDs and vibrating motors to indicate the detected danger.
+- Feedback Loop: The system continuously updates based on inputs from sensors, adjusting the RGB LED’s color and vibration intensity accordingly, while keeping cloud communication active for alert distribution to nearby devices.
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="33%" alt="FSR Setup" src="assets/7 Technical Map.png">
+    <img width="33%" alt="FSR Setup" src="assets/7 Map.png">      
+</div>
+
 #### Videos & Images
 
-### Diagrammatic Analysis
+###### Level of Effort:
+- RGB LED Integration: Moderate difficulty. Estimated time of 2-3 hours for connecting the RGB LED to the Photon microcontroller, configuring PWM outputs, and testing the color transitions.
+- Button Setup: Low difficulty. Connecting the button to the Photon with a pull-down resistor is straightforward, requiring around 1 hour.
+Loudness Sensor Setup: Moderate difficulty. Setting up and calibrating the loudness sensor will require 2-3 hours to ensure it correctly identifies sound thresholds.
+- DRV2605L Vibration Motor Setup: High difficulty. This requires I2C communication, testing various vibration patterns, and ensuring proper responsiveness, likely requiring 4-5 hours.
+- API and Web API Calls: High difficulty. Setting up APIs to interact with web services (e.g., cloud-based logging, notifications, or remote control) requires 6-8 hours. Time will be needed for coding, testing HTTP requests, and ensuring data security.
+- Interaction with Other Photons: Moderate difficulty. Setting up communication between multiple Photons (via Particle Cloud) will take 4-6 hours. You will need to configure event-based communication for device-to-device interaction, test the communication channels, and manage data sharing across devices.
+- Gas Sensor Setup: Moderate to high difficulty. Wiring and calibrating the gas sensor for detecting harmful gases will take 4-5 hours. This includes testing the sensor’s responses and ensuring it works seamlessly with the other components.
+- Battery Management Setup: Moderate difficulty. Managing battery consumption with efficient power distribution and implementing low-power modes could take 3-5 hours to balance performance with battery life.
+- Total Time Estimate: 25-33 hours for connecting, integrating, testing, and optimizing power management for all components.
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="33%" alt="FSR Setup" src="assets/7 Testing Red & Green.gif">
+    <img width="33%" alt="FSR Setup" src="assets/7 Testing Vibration Sensor.gif">
+    <img width="33%" alt="FSR Setup" src="assets/7 Testing Vibration Sensor with Button.gif">      
+</div>
 
 ### Speculations
 
+###### Develop a proof of concept for a context-aware assistant, that can help students with safety.
+
+- Gain insights into the effort required to implement core functionalities such as photon integration, context-aware assistance, and cloud integration. Ensuring all the sensors work well with the interactive system.
+- Discover best practices for prototyping with distributed components, focusing on modular and scalable design.
+- Talk to the dean and students to understand the pain points more effectively and include them in prototyping efforts.
+- Share findings with our peers for feedback and continued community development.
+
+This feasibility study aims to develop a Particle Photon2-based location tracker for Berkeley Warning Zones through systematic experimentation. By integrating Web APIs and Stemma QT through prototyping, the team will build a physical warning system that alerts users when they approach a location. The assistant will generate warning cues in the form of flashing LED Lights using Particle Cloud integration with the possibility of including uses of API to provide location-based contextual information, to cross-reference with the user’s location and data from Berkeley Warn Me messages. The study will emphasize understanding the usage of Gas sensors, Loudness sensors, and Vibration motors, and applying them to our knowledge of Particle Photon2 to develop a cloud-based system.
 
 ---------------------------------------------------------------------------------------------------------
 
