@@ -20,13 +20,83 @@ To improve the quality of life.
 [week 5](README.md#week-5-playing-with-photon) ,
 [week 6](README.md#week-6-playing-with-sensors) ,
 [week 7](README.md#week-7-building-safe) ,
-[week 8](README.md#week-7-building-safe-2nd-week)
+[week 8](README.md#week-8-safe-(A-Personal-Safety-Assistant),
 
 
 ---------------------------------------------------------------------------------------------------------
 
-# Week 8: Building Safe 2nd Week
+# Week 8: Safe (A Personal Safety Assistant)
 ## Week of 10/22/2024
+
+### Reflections
+We were stuck on GPS Integration, Gas Sensor Integration, Loudness Sensor Integration, Photon Communication, Overall Integration and documentation. This week we completed all of these to make sure we have a working prototype (3 devices actually), that can communicate with eachother and ensure students are safe in unsafe zones around campus. We did talk to lot of students about the same, and got validation that they would use the product, because students generally want to be safe and ensure safety of others as well. It was overall fun working in the team and we built something incredible.
+
+
+
+#### Team Member Roles
+
+- Shryas Bhurat, 03-Axolotl:  API and web API calls, Interaction with other photons, GPS Proximity, Overall Integration
+- Sun-Q Kim 03-Axolotl: Gas Sensor, Loudness Sensor
+- Mia Wu 03-Axolotl: Button, RGB LED, Vibrating Mini Motor, Battery Management
+
+#### Problem & Solution
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="FSR Setup" src="assets/8 Warn Me.jpg">
+    <img width="50%" alt="FSR Setup" src="assets/8 Why Safe.jpg">      
+</div>
+
+#### Diagram Analysis
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="FSR Setup" src="assets/8 Diagram.jpg">
+    <img width="50%" alt="FSR Setup" src="assets/8 Working.jpg">      
+</div>
+
+#### Prototyping
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    
+    <img width="33%" alt="FSR Setup" src="assets/8 Prototyping.jpg">     
+    <img width="33%" alt="FSR Setup" src="assets/Adobe Express 2024-10-22 22.27.11.gif">
+    <img width="33%" alt="FSR Setup" src="assets/Adobe Express 2024-10-22 22.27.37.gif">
+</div>
+
+Demo Video Link:
+
+### Challenges
+
+#### Individual Challenges
+- It was difficult to implement GPS Location Protocol so that Photons can communicate with eachother and work with different sensors together.
+- It was difficult to merge the code for different sensors without breaking the initial functions.
+
+#### Team Challenges
+
+- Combining data from diverse sensors (loudness, gas, button) while ensuring they work together seamlessly. 
+- The BME688 sensor's gas readings and loudness sensor data can fluctuate due to changing environmental conditions.
+- Setting up secure and reliable communication between the Photon 2 and the Google Maps API through the Particle Cloud.
+- The Gas Sensor had trouble accurately detecting nearby alcohol levels
+
+### Speculations
+
+- Create our custom hardware by miniaturizing components and cut down physical sizes and eliminating the breadboard
+- 3D print a case for the device for easier wearable equipment in the form of a necklace or cloth pin
+- Add Edge ML functions to detect gunshot sounds from other loud noises
+-  LLM Agents can automatically accept calls and pinpoint WarnMe locations to add to the system
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="33%" alt="FSR Setup" src="assets/11.jpg">
+    <img width="33%" alt="FSR Setup" src="assets/13.jpg">
+    <img width="33%" alt="FSR Setup" src="assets/15.jpg">
+
+</div>
+
+### Conclusion
+
+- The "Warn Me" Zone alert system successfully detects hazardous areas using gunshot, gas leak sensors, and a manual alert button, providing real-time danger zone coordinates.
+- LEDs and vibrating motors serve as clear, effective indicators to alert students when they are near or inside a danger zone.
+- The system combines sensory technology and simple feedback mechanisms to ensure immediate awareness of potential threats.
+- This design enhances student safety by offering a practical, responsive solution to detect various emergencies on campus.
+- With further development, the system can be adapted for broader safety applications and improve emergency response protocols.
+
 ---------------------------------------------------------------------------------------------------------
 
 # Week 7: Building Safe
