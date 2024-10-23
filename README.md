@@ -52,9 +52,10 @@ LEDs and Vibrating Motors let the user know of if they are close proximity to th
 
 #### Diagram Analysis
 
--RGB LED (Common Cathode): The color of the LED changes based on the severity of the detected danger. For example:
-Green: Safe or low-level alert.
-- Red: High danger, such as a detected gunshot or significant gas leak. Vibration (Haptic Motor Controller and Vibrating Mini Motor): The system activates the vibration motor for physical feedback when any danger is detected, enhancing user awareness.
+- RGB LED (Common Cathode): The color of the LED changes based on the severity of the detected danger. For example:
+- Green: Safe or low-level alert.
+- Red: High danger, such as a detected gunshot or significant gas leak.
+- Blue: Vibration (Haptic Motor Controller and Vibrating Mini Motor): The system activates the vibration motor for physical feedback when any danger is detected, enhancing user awareness.
 - Cloud Communication: Upon detecting an alert from any sensor or button press, the Photon 2 sends data to Particle Cloud, which manages the distribution of alerts. Alerts are broadcasted to nearby devices, which respond by activating their own RGB LEDs and vibrating motors to indicate the detected danger.
 - Feedback Loop: The system continuously updates based on inputs from sensors, adjusting the RGB LED’s color and vibration intensity accordingly, while keeping cloud communication active for alert distribution to nearby devices.
 
@@ -64,6 +65,8 @@ Green: Safe or low-level alert.
 </div>
 
 #### Prototyping
+We tried multiple iterations of making different things work individually and work together. This week we completed all of these to make sure we have a working prototype (3 devices actually), that can communicate with eachother and ensure students are safe in unsafe zones around campus. We did talk to lot of students about the same, and got validation that they would use the product, because students generally want to be safe and ensure safety of others as well. It was overall fun working in the team and we built something incredible.
+
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="33%" alt="FSR Setup" src="assets/8 Prototyping.jpg">     
