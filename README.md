@@ -34,7 +34,7 @@ We were stuck on GPS Integration, Gas Sensor Integration, Loudness Sensor Integr
 
 #### Team Member Roles
 
-- Shryas Bhurat, 03-Axolotl:  API and web API calls, Interaction with other photons, GPS Proximity, Overall Integration
+- Shryas Bhurat, 03-Axolotl:  RGB LED, API and web API calls, Interaction with other photons, GPS Proximity, Overall Integration
 - Sun-Q Kim 03-Axolotl: Gas Sensor, Loudness Sensor
 - Mia Wu 03-Axolotl: Button, RGB LED, Vibrating Mini Motor, Battery Management
 
@@ -74,7 +74,7 @@ We tried multiple iterations of making different things work individually and wo
     <img width="33%" alt="FSR Setup" src="assets/Adobe Express 2024-10-22 22.27.37.gif">
 </div>
 
-Demo Video Link:
+Demo Video Link: https://youtu.be/De8imr4Wb8M
 
 ### Challenges
 
