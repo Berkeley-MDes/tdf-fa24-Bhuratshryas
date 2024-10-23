@@ -66,7 +66,6 @@ Green: Safe or low-level alert.
 #### Prototyping
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    
     <img width="33%" alt="FSR Setup" src="assets/8 Prototyping.jpg">     
     <img width="33%" alt="FSR Setup" src="assets/Adobe Express 2024-10-22 22.27.11.gif">
     <img width="33%" alt="FSR Setup" src="assets/Adobe Express 2024-10-22 22.27.37.gif">
