@@ -46,8 +46,8 @@ Design a physical system that alerts the students when they are near or in conta
 LEDs and Vibrating Motors let the user know of if they are close proximity to the location.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img width="50%" alt="FSR Setup" src="assets/8 Warn Me.jpg">
-    <img width="50%" alt="FSR Setup" src="assets/8 Why Safe.jpg">      
+    <img width="33%" alt="FSR Setup" src="assets/8 Warn Me.jpg">
+    <img width="33%" alt="FSR Setup" src="assets/8 Why Safe.jpg">      
 </div>
 
 #### Diagram Analysis
@@ -59,8 +59,8 @@ Green: Safe or low-level alert.
 - Feedback Loop: The system continuously updates based on inputs from sensors, adjusting the RGB LED’s color and vibration intensity accordingly, while keeping cloud communication active for alert distribution to nearby devices.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img width="50%" alt="FSR Setup" src="assets/8 Diagram.jpg">
-    <img width="50%" alt="FSR Setup" src="assets/8 Working.jpg">      
+    <img width="33%" alt="FSR Setup" src="assets/8 Diagram.jpg">
+    <img width="33%" alt="FSR Setup" src="assets/8 Working.jpg">      
 </div>
 
 #### Prototyping
