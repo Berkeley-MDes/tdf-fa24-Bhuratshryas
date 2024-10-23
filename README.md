@@ -20,17 +20,16 @@ To improve the quality of life.
 [week 5](README.md#week-5-playing-with-photon) ,
 [week 6](README.md#week-6-playing-with-sensors) ,
 [week 7](README.md#week-7-building-safe) ,
-[week 8](README.md#week-8-safe-(A-Personal-Safety-Assistant),
+[week 8](README.md#week-8-safe-A-Personal-Safety-Assistant),
 
 
 ---------------------------------------------------------------------------------------------------------
 
-# Week 8: Safe (A Personal Safety Assistant)
+# Week 8: Safe A Personal Safety Assistant
 ## Week of 10/22/2024
 
 ### Reflections
 We were stuck on GPS Integration, Gas Sensor Integration, Loudness Sensor Integration, Photon Communication, Overall Integration and documentation. This week we completed all of these to make sure we have a working prototype (3 devices actually), that can communicate with eachother and ensure students are safe in unsafe zones around campus. We did talk to lot of students about the same, and got validation that they would use the product, because students generally want to be safe and ensure safety of others as well. It was overall fun working in the team and we built something incredible.
-
 
 
 #### Team Member Roles
@@ -40,12 +39,25 @@ We were stuck on GPS Integration, Gas Sensor Integration, Loudness Sensor Integr
 - Mia Wu 03-Axolotl: Button, RGB LED, Vibrating Mini Motor, Battery Management
 
 #### Problem & Solution
+
+As Berkeley students, we constantly receive messages from the Berkeley Warn Me system of potential hazards and crimes that occur around the campus area. Most people shrug off the information believing it is irrelevant to them, reaches them late or disregarding its seriousness. The exact location of the event is often forgotten or ignored, which could render the Warn Me system useless. 
+
+Design a physical system that alerts the students when they are near or in contact with a ‘Warn Me’ Zone. Zones are detected using a gunshot, gas leakage, and button which give coordinates of a potential zone. 
+LEDs and Vibrating Motors let the user know of if they are close proximity to the location.
+
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="50%" alt="FSR Setup" src="assets/8 Warn Me.jpg">
     <img width="50%" alt="FSR Setup" src="assets/8 Why Safe.jpg">      
 </div>
 
 #### Diagram Analysis
+
+-RGB LED (Common Cathode): The color of the LED changes based on the severity of the detected danger. For example:
+Green: Safe or low-level alert.
+- Red: High danger, such as a detected gunshot or significant gas leak. Vibration (Haptic Motor Controller and Vibrating Mini Motor): The system activates the vibration motor for physical feedback when any danger is detected, enhancing user awareness.
+- Cloud Communication: Upon detecting an alert from any sensor or button press, the Photon 2 sends data to Particle Cloud, which manages the distribution of alerts. Alerts are broadcasted to nearby devices, which respond by activating their own RGB LEDs and vibrating motors to indicate the detected danger.
+- Feedback Loop: The system continuously updates based on inputs from sensors, adjusting the RGB LED’s color and vibration intensity accordingly, while keeping cloud communication active for alert distribution to nearby devices.
+
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="50%" alt="FSR Setup" src="assets/8 Diagram.jpg">
     <img width="50%" alt="FSR Setup" src="assets/8 Working.jpg">      
