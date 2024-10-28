@@ -21,6 +21,12 @@ To improve the quality of life.
 [week 6](README.md#week-6-playing-with-sensors) ,
 [week 7](README.md#week-7-building-safe) ,
 [week 8](README.md#week-8-safe-A-Personal-Safety-Assistant),
+[week 9](README.md#week-9-new-challenge),
+
+---------------------------------------------------------------------------------------------------------
+
+# Week 9: New Challenge
+## Week of 10/28/2024
 
 
 ---------------------------------------------------------------------------------------------------------
