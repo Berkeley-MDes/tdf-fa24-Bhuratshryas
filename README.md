@@ -32,13 +32,13 @@ To improve the quality of life.
 
 ### Reflections
 
-#### Diagram Analysis
+### Diagram Analysis
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="33%" alt="FSR Setup" src="assets/8 Warn Me.jpg">
     <img width="33%" alt="FSR Setup" src="assets/8 Why Safe.jpg">      
 </div>
 
-#### Videos & Images
+### Videos & Images
 
 ### Speculations
 
@@ -50,13 +50,13 @@ To improve the quality of life.
 
 ### Reflections
 
-#### Diagram Analysis
+### Diagram Analysis
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="33%" alt="FSR Setup" src="assets/8 Warn Me.jpg">
     <img width="33%" alt="FSR Setup" src="assets/8 Why Safe.jpg">      
 </div>
 
-#### Videos & Images
+### Videos & Images
 
 ### Speculations
 
