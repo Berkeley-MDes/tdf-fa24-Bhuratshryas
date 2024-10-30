@@ -28,6 +28,41 @@ To improve the quality of life.
 # Week 9: Experimenting with LLMs
 ## Week of 10/28/2024
 
+### Project 1
+
+### Reflections
+
+#### Diagram Analysis
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="33%" alt="FSR Setup" src="assets/8 Warn Me.jpg">
+    <img width="33%" alt="FSR Setup" src="assets/8 Why Safe.jpg">      
+</div>
+
+#### Videos & Images
+
+### Speculations
+
+### Conclusion
+
+-----------------------------------------------------------------------------------------------------------
+
+### Project 2
+
+### Reflections
+
+#### Diagram Analysis
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="33%" alt="FSR Setup" src="assets/8 Warn Me.jpg">
+    <img width="33%" alt="FSR Setup" src="assets/8 Why Safe.jpg">      
+</div>
+
+#### Videos & Images
+
+### Speculations
+
+### Conclusion
+
+
 
 ---------------------------------------------------------------------------------------------------------
 
