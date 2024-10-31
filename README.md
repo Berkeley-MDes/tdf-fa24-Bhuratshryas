@@ -28,17 +28,16 @@ To improve the quality of life.
 # Week 9: Experimenting with LLMs
 ## Week of 10/28/2024
 
-### Project 1
+### Experiment 1
 
 ### Reflections
 
 ### Diagram Analysis
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img width="33%" alt="FSR Setup" src="assets/8 Warn Me.jpg">
-    <img width="33%" alt="FSR Setup" src="assets/8 Why Safe.jpg">      
+    <img width="33%" alt="FSR Setup" src="assets/9 Exp 1.png">
+    <img width="33%" alt="FSR Setup" src="assets/9 Exp 1.1.png"> 
+    <img width="33%" alt="FSR Setup" src="assets/9 Post Man 1.png"> 
 </div>
-
-### Videos & Images
 
 ### Speculations
 
@@ -46,23 +45,56 @@ To improve the quality of life.
 
 -----------------------------------------------------------------------------------------------------------
 
-### Project 2
+### Experiment 2
 
 ### Reflections
 
 ### Diagram Analysis
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img width="33%" alt="FSR Setup" src="assets/8 Warn Me.jpg">
-    <img width="33%" alt="FSR Setup" src="assets/8 Why Safe.jpg">      
+    <img width="33%" alt="FSR Setup" src="assets/9 Exp 2.png">  
 </div>
 
-### Videos & Images
 
 ### Speculations
 
 ### Conclusion
 
 
+
+-----------------------------------------------------------------------------------------------------------
+
+### Experiment 3
+
+### Reflections
+
+### Diagram Analysis
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="33%" alt="FSR Setup" src="assets/9 Exp 3.png"> 
+    <img width="33%" alt="FSR Setup" src="assets/9 Knowledge Base.png"> 
+</div>
+
+### Speculations
+
+### Conclusion
+
+
+-----------------------------------------------------------------------------------------------------------
+
+### Experiment 4
+
+### Reflections
+
+### Diagram Analysis
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="33%" alt="FSR Setup" src="assets/9 Exp 4.png">
+    <img width="33%" alt="FSR Setup" src="assets/9 Exp 4.1.png">    
+    <img width="33%" alt="FSR Setup" src="assets/9 Post Man 2.png">      
+
+</div>
+
+### Speculations
+
+### Conclusion
 
 ---------------------------------------------------------------------------------------------------------
 
