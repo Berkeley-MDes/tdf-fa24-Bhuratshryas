@@ -28,63 +28,35 @@ To improve the quality of life.
 # Week 9: Experimenting with LLMs
 ## Week of 10/28/2024
 
-### Experiment 1
-
 ### Reflections
 
-### Diagram Analysis
+### Experiment 1
+
+#### Diagram Analysis
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="33%" alt="FSR Setup" src="assets/9 Exp 1.png">
     <img width="33%" alt="FSR Setup" src="assets/9 Exp 1.1.png"> 
     <img width="33%" alt="FSR Setup" src="assets/9 Post Man 1.png"> 
 </div>
 
-### Speculations
-
-### Conclusion
-
------------------------------------------------------------------------------------------------------------
-
 ### Experiment 2
 
-### Reflections
-
-### Diagram Analysis
+#### Diagram Analysis
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="33%" alt="FSR Setup" src="assets/9 Exp 2.png">  
 </div>
 
-
-### Speculations
-
-### Conclusion
-
-
-
------------------------------------------------------------------------------------------------------------
-
 ### Experiment 3
 
-### Reflections
-
-### Diagram Analysis
+#### Diagram Analysis
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="33%" alt="FSR Setup" src="assets/9 Exp 3.png"> 
     <img width="33%" alt="FSR Setup" src="assets/9 Knowledge Base.png"> 
 </div>
 
-### Speculations
-
-### Conclusion
-
-
------------------------------------------------------------------------------------------------------------
-
 ### Experiment 4
 
-### Reflections
-
-### Diagram Analysis
+#### Diagram Analysis
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="33%" alt="FSR Setup" src="assets/9 Exp 4.png">
     <img width="33%" alt="FSR Setup" src="assets/9 Exp 4.1.png">    
@@ -93,6 +65,7 @@ To improve the quality of life.
 </div>
 
 ### Speculations
+
 
 ### Conclusion
 
