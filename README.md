@@ -33,9 +33,9 @@ To improve the quality of life.
 
 #### Images
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img width="33%" alt="FSR Setup" src="">
-    <img width="33%" alt="FSR Setup" src=""> 
-    <img width="33%" alt="FSR Setup" src=""> 
+    <img width="33%" alt="Image" src="">
+    <img width="33%" alt="Image" src="">
+    <img width="33%" alt="Image" src=""> 
 </div>
 
 ### Speculations
