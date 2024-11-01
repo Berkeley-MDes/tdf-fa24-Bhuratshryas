@@ -22,6 +22,26 @@ To improve the quality of life.
 [week 7](README.md#week-7-building-safe) ,
 [week 8](README.md#week-8-safe-A-Personal-Safety-Assistant),
 [week 9](README.md#week-9-experimenting-with-llms),
+[week 10](README.md#week-10-Internet-Me),
+
+---------------------------------------------------------------------------------------------------------
+
+# Week 10: Internet Me
+## Week of 11/1/2024
+
+### Reflections
+
+#### Images
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="33%" alt="FSR Setup" src="">
+    <img width="33%" alt="FSR Setup" src=""> 
+    <img width="33%" alt="FSR Setup" src=""> 
+</div>
+
+### Speculations
+
+### Conclusion
+
 
 ---------------------------------------------------------------------------------------------------------
 
