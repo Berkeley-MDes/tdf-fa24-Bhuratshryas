@@ -35,7 +35,7 @@ Developing a language model (LLM) based on my portfolio and integrating it into 
 #### Videos
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="50%" alt="Image" src="assets/10 Adobe Express 2024-11-04 21.31.30.gif">
-    <img width="50%" alt="Image" src="assets/10 Adobe Express 2024-11-04 21.35.17.gif">
+    <img width="50%" alt="Image" src="assets/10 Adobe Express 2024-11-04 21.42.26.gif">
 </div>
 
 ### Speculations
