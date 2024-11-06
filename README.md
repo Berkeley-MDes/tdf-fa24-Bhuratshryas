@@ -32,9 +32,11 @@ To improve the quality of life.
 ### Reflections
 Developing a language model (LLM) based on my portfolio and integrating it into my website offers a uniquely interactive experience, allowing visitors to engage directly with your career narrative, achievements, and projects. This dynamic approach not only enhances engagement but also makes my portfolio more accessible and inviting, especially for audiences who may prefer conversational interaction over static content browsing. Through this innovative application of AI, I've showcased the potential of LLMs in personal branding, positioning myself as forward-thinking and tech-savvy.
 
-Level: Axolotl
+#### Level: Axolotl
 
 This was a great learning for the project, as I worked on training my own models, fine tuning the parameters and taking the api keys to build a web application, that was completely new experience to build a llm for my portfolio with a presentable UI that matches the color themes and format of the portfolio.
+
+#### Youtube Link: (To be inserted)
 
 #### Diagrammatic Analysis
 
