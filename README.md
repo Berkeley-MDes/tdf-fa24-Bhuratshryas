@@ -32,7 +32,32 @@ To improve the quality of life.
 ### Reflections
 Developing a language model (LLM) based on my portfolio and integrating it into my website offers a uniquely interactive experience, allowing visitors to engage directly with your career narrative, achievements, and projects. This dynamic approach not only enhances engagement but also makes my portfolio more accessible and inviting, especially for audiences who may prefer conversational interaction over static content browsing. Through this innovative application of AI, I've showcased the potential of LLMs in personal branding, positioning myself as forward-thinking and tech-savvy.
 
-#### Videos
+Level: Axolotl
+
+This was a great learning for the project, as I worked on training my own models, fine tuning the parameters and taking the api keys to build a web application, that was completely new experience to build a llm for my portfolio with a presentable UI that matches the color themes and format of the portfolio.
+
+#### Diagrammatic Analysis
+
+Exploring the use of Large Language Models (LLMs) and training them with knowledge through simple drag-and-drop tools has been an exciting journey, as it enables the personalization of these models for specific use cases. This approach not only simplifies the process of adapting LLMs to individual needs but also opens up new possibilities for tailoring AI-powered solutions to diverse applications, making advanced language technology more accessible and customizable for various industries and purposes.
+
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="Image" src="assets/10 4.png">
+</div>
+
+#### Process
+
+Working with large language models (LLMs) for portfolio projects offers an exciting opportunity to showcase your skills in AI and natural language processing. One key aspect of such projects is fine-tuning the model parameters to optimize performance for your specific use case. This involves carefully adjusting settings like temperature to control the model's creativity, and determining appropriate chunk sizes with sufficient overlap to maintain context. Additionally, implementing an intuitive user interface that goes beyond simple text input can greatly enhance the user experience and demonstrate your ability to create user-friendly AI applications
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="Image" src="assets/10 3.gif">
+    <img width="50%" alt="Image" src="assets/10 2.gif">
+</div>
+
+#### Final Version
+
+To make your LLM portfolio project stand out, consider incorporating features that highlight its practical applications. For instance, you could provide direct URLs to the full project, allowing viewers to explore the entire implementation in detail. Implementing a summarization feature that can concisely explain any part of the project on demand can showcase the model's versatility. Furthermore, designing a responsive UI that can handle various input formats, such as JSON files, demonstrates your ability to create flexible and robust AI solutions. These elements combined can create a compelling portfolio piece that effectively showcases your skills in both AI development and user experience design.
+
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="50%" alt="Image" src="assets/10 Adobe Express 2024-11-04 21.31.30.gif">
     <img width="50%" alt="Image" src="assets/10 Adobe Express 2024-11-04 21.42.26.gif">
