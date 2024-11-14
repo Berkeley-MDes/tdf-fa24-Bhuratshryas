@@ -88,7 +88,7 @@ Future development of the Safe project could focus on several areas:
 
 Developing a language model (LLM) based on my portfolio and integrating it into my website offers a uniquely interactive experience, allowing visitors to engage directly with your career narrative, achievements, and projects. 
 
-#### Diagrammatic Analysis
+#### Diagrammatic Analysis & Process Diagram
 
 Exploring the use of Large Language Models (LLMs) and training them with knowledge through simple drag-and-drop tools has been an exciting journey, as it enables the personalization of these models for specific use cases. This approach not only simplifies the process of adapting LLMs to individual needs but also opens up new possibilities for tailoring AI-powered solutions to diverse applications, making advanced language technology more accessible and customizable for various industries and purposes.
 
