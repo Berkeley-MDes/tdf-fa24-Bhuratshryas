@@ -95,6 +95,8 @@ Exploring the use of Large Language Models (LLMs) and training them with knowled
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="50%" alt="Image" src="assets/10 4.png">
+    <img width="50%" alt="Image" src="assets/Process Diagram.png">
+    
 </div>
 
 
