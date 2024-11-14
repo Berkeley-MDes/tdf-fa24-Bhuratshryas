@@ -23,11 +23,11 @@ To improve the quality of life.
 [week 8](README.md#week-8-safe-A-Personal-Safety-Assistant),
 [week 9](README.md#week-9-experimenting-with-llms),
 [week 10](README.md#week-10-LLM-that-enhances-my-portfolio),
-[week 11](README.md#week-11-Revamping-Safe),
+[week 11](README.md#week-11-Reflections-On-Projects-2-and-3),
 
 ---------------------------------------------------------------------------------------------------------
 
-# Week 11: Revamping Safe
+# Week 11: Reflections on Projects 2 and 3
 ## Week of 11/11/2024
 
 
