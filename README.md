@@ -42,6 +42,19 @@ As Berkeley students, we constantly receive messages from the Berkeley Warn Me s
 
 </div>
 
+#### Diagram Analysis
+
+- RGB LED (Common Cathode): The color of the LED changes based on the severity of the detected danger. For example:
+- Green: Safe or low-level alert.
+- Red: High danger, such as a detected gunshot or significant gas leak.
+- Blue: Vibration (Haptic Motor Controller and Vibrating Mini Motor): The system activates the vibration motor for physical feedback when any danger is detected, enhancing user awareness.
+- Cloud Communication: Upon detecting an alert from any sensor or button press, the Photon 2 sends data to Particle Cloud, which manages the distribution of alerts. Alerts are broadcasted to nearby devices, which respond by activating their own RGB LEDs and vibrating motors to indicate the detected danger.
+- Feedback Loop: The system continuously updates based on inputs from sensors, adjusting the RGB LED’s color and vibration intensity accordingly, while keeping cloud communication active for alert distribution to nearby devices.
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="33%" alt="FSR Setup" src="assets/8 Diagram.jpg">
+    <img width="33%" alt="FSR Setup" src="assets/8 Working.jpg">      
+</div>
 
 ## Reflection
 
@@ -74,6 +87,16 @@ Future development of the Safe project could focus on several areas:
 ## Project 3: LLM-Based Portfolio
 
 Developing a language model (LLM) based on my portfolio and integrating it into my website offers a uniquely interactive experience, allowing visitors to engage directly with your career narrative, achievements, and projects. 
+
+#### Diagrammatic Analysis
+
+Exploring the use of Large Language Models (LLMs) and training them with knowledge through simple drag-and-drop tools has been an exciting journey, as it enables the personalization of these models for specific use cases. This approach not only simplifies the process of adapting LLMs to individual needs but also opens up new possibilities for tailoring AI-powered solutions to diverse applications, making advanced language technology more accessible and customizable for various industries and purposes.
+
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="Image" src="assets/10 4.png">
+</div>
+
 
 To make your LLM portfolio project stand out, consider incorporating features that highlight its practical applications. For instance, you could provide direct URLs to the full project, allowing viewers to explore the entire implementation in detail. Implementing a summarization feature that can concisely explain any part of the project on demand can showcase the model's versatility. Furthermore, designing a responsive UI that can handle various input formats, such as JSON files, demonstrates your ability to create flexible and robust AI solutions. These elements combined can create a compelling portfolio piece that effectively showcases your skills in both AI development and user experience design.
 
