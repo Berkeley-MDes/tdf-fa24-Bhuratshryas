@@ -30,6 +30,108 @@ To improve the quality of life.
 # Week 11: Reflections on Projects 2 and 3
 ## Week of 11/11/2024
 
+## Project 2: Safe - A Personal Safety Assistant
+
+As Berkeley students, we constantly receive messages from the Berkeley Warn Me system of potential hazards and crimes around the campus area. Most people shrug off the information believing it is irrelevant to them or disregarding its seriousness. The event's exact location is often forgotten or ignored, which could render the Warn Me system useless. Our objective is to design a comprehensive physical system that alerts users when they are near or in contact with a ‘Warn Me’ Zone. Zones are detected using a loudness sensor, gas sensor, and button which give coordinates of a potential zone. LEDs and Vibrating Motors let the user know if they are in proximity to the location.
+
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="33%" alt="FSR Setup" src="assets/11.jpg">
+    <img width="33%" alt="FSR Setup" src="assets/13.jpg">
+    <img width="33%" alt="FSR Setup" src="assets/15.jpg">
+
+</div>
+
+
+## Reflection
+
+The Safe project demonstrates impressive progress and innovation in addressing campus safety concerns. The team overcame several technical challenges to create a functional prototype that integrates multiple sensors and communication systems. Their ability to complete GPS integration, gas and loudness sensor integration, Photon communication, and overall system integration within a week showcases strong technical skills and teamwork.
+
+The project's focus on student safety and its validation through student feedback indicates a user-centered approach to design. The team's success in creating three working devices that can communicate with each other is particularly noteworthy, as it demonstrates the scalability of their solution. The incorporation of various sensors and alert mechanisms, such as RGB LEDs and vibrating motors, shows a thoughtful approach to user interaction and accessibility.
+
+## Speculation
+
+Future development of the Safe project could focus on several areas:
+
+1. **Miniaturization and Wearability**: Creating custom hardware to reduce the device's size and developing a wearable form factor (e.g., necklace or clip-on device) could significantly increase adoption and usability.
+
+2. **Advanced Detection Algorithms**: Implementing edge machine learning to improve the accuracy of threat detection, particularly in distinguishing gunshots from other loud noises, could enhance the system's reliability.
+
+3. **Integration with Existing Systems**: Collaborating with campus security to integrate the Safe system with existing alert mechanisms could create a more comprehensive safety network.
+
+4. **Expanded Sensor Array**: Adding more types of sensors (e.g., air quality, radiation) could broaden the system's capability to detect various environmental hazards.
+
+5. **Mobile App Integration**: Developing a companion mobile app could provide users with more detailed information and customization options.
+
+## Conclusion
+- The "Warn Me" Zone alert system successfully detects hazardous areas using gunshot, gas leak sensors, and a manual alert button, providing real-time danger zone coordinates.
+- LEDs and vibrating motors serve as clear, effective indicators to alert students when they are near or inside a danger zone.
+- The system combines sensory technology and simple feedback mechanisms to ensure immediate awareness of potential threats.
+- This design enhances student safety by offering a practical, responsive solution to detect various emergencies on campus.
+- With further development, the system can be adapted for broader safety applications and improve emergency response protocols.
+----------------------------------------------------------------------------------------
+
+## Project 3: LLM-Based Portfolio
+
+Developing a language model (LLM) based on my portfolio and integrating it into my website offers a uniquely interactive experience, allowing visitors to engage directly with your career narrative, achievements, and projects. 
+
+To make your LLM portfolio project stand out, consider incorporating features that highlight its practical applications. For instance, you could provide direct URLs to the full project, allowing viewers to explore the entire implementation in detail. Implementing a summarization feature that can concisely explain any part of the project on demand can showcase the model's versatility. Furthermore, designing a responsive UI that can handle various input formats, such as JSON files, demonstrates your ability to create flexible and robust AI solutions. These elements combined can create a compelling portfolio piece that effectively showcases your skills in both AI development and user experience design.
+
+
+## Images & Videos
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="Image" src="assets/10 Adobe Express 2024-11-04 21.31.30.gif">
+    <img width="50%" alt="Image" src="assets/10 Adobe Express 2024-11-04 21.42.26.gif">
+</div>
+
+
+## Reflection
+
+The development of a personalized language model for a portfolio website represents an innovative application of AI technology in personal branding. This project showcases the creator's technical skills in AI and natural language processing, as well as their ability to integrate advanced technology into a practical, user-friendly application. The focus on fine-tuning model parameters and creating an intuitive user interface demonstrates a deep understanding of both the technical and user experience aspects of AI applications.
+
+The project's emphasis on enhancing user engagement through interactive AI-powered features is particularly impressive. By allowing visitors to interact directly with the portfolio content through natural language queries, the creator has developed a unique and memorable way to present their professional achievements and skills.
+
+## Speculation
+
+The LLM-based portfolio project has significant potential for future development:
+
+1. **Personalized Learning Paths**: The LLM could be expanded to offer tailored learning recommendations based on a visitor's interests and skill level, creating an educational component to the portfolio.
+
+2. **Multi-modal Interaction**: Incorporating voice recognition and text-to-speech capabilities could make the portfolio more accessible and interactive.
+
+3. **Dynamic Content Generation**: The LLM could be used to generate new content based on recent projects or experiences, keeping the portfolio constantly updated.
+
+4. **Collaborative Features**: Implementing features that allow visitors to contribute or suggest edits could create a more engaging and community-driven portfolio experience.
+
+5. **Analytics and Insights**: Developing a system to analyze user interactions could provide valuable insights into which aspects of the portfolio are most engaging or relevant to different audiences.
+
+## Peer Feedback Response 
+### Synthesis: 
+#### Growth Feedback
+The Portfolio LLM project demonstrates an innovative approach to personal branding and professional presentation. It effectively combines AI technology with portfolio showcasing, creating an interactive and engaging user experience. The project's progression through multiple experiments shows a methodical approach to developing and refining the LLM's capabilities. 
+Acknowledgement Feedback
+I appreciate the acknowledgment of the project's methodical development through multiple experiments. It was indeed a deliberate process to refine the LLM's capabilities and optimize its performance for this specific use case. The exploration of LLM selection, temperature adjustment, instruction design, and knowledge chunking was crucial in developing a system that could effectively represent my professional information.
+
+#### Analysis: 
+The project's iterative development process, from GPT Experiment 1 through to the final Portfolio LLM, shows a deep understanding of LLM technology and its applications. Particularly appreciate how I’ve explored the impacts of LLM selection and temperature adjustment on output quality and diversity. This demonstrates not just technical skills, but also a nuanced understanding of AI behavior using it in user experiences.
+
+The feedback recognizes several key strengths of the project:
+The integration of AI technology with portfolio showcasing
+The iterative development process from GPT Experiment 1 to the final Portfolio LLM
+The exploration of LLM selection and temperature adjustment impacts
+The thorough analysis of instruction design and knowledge chunking
+The practical application of the LLM as a tool for enhancing professional communication.
+
+#### Response: 
+The feedback validates my project goals of demonstrating skills in AI development, UX design, and creative problem-solving. I'm excited about the potential of this technology to set a new standard for professional communication and personal branding.
+
+
+## Conclusion
+
+Both projects demonstrate innovative applications of technology to solve real-world problems and enhance personal branding. Their future development holds exciting possibilities for improving safety, education, and professional networking.
+
+Going forward, this project could be refined by analyzing user interaction data to understand what people are most interested in, helping to continue adapting and personalizing responses. Expanding this model to different platforms or integrating multimedia responses could further elevate the experience, making it even more engaging and comprehensive. There's also potential to offer this type of project as a service for others who want to create an LLM-powered portfolio, opening avenues in consulting or even entrepreneurship. As AI becomes more integrated into our daily lives, projects like this that demonstrate the ability to create user-friendly, practical AI applications will become increasingly valuable in the professional landscape.
+
 
 ---------------------------------------------------------------------------------------------------------
 
