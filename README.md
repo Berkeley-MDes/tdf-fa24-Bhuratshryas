@@ -31,11 +31,6 @@ To improve the quality of life.
 # Week 12: Safe Version 2
 ## Week of 11/18/2024
 
-#### Diagram Analysis
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img width="50%" alt="FSR Setup" src="assets/Safe logo.png">
-</div>
-
 ## Summary
 
 SAFE (Safety Alert for Emergency) is a cutting-edge integrated safety system engineered to bolster the security and well-being of UC Berkeley students. This initiative addresses the shortcomings of the existing manual Warn Me system, which frequently experiences notification delays regarding potential campus hazards or incidents. SAFE leverages advanced hardware and software technologies to deliver real-time, location-specific alerts and optimize emergency response protocols.
@@ -43,6 +38,10 @@ SAFE (Safety Alert for Emergency) is a cutting-edge integrated safety system eng
 The hardware infrastructure of SAFE comprises strategically deployed devices across campus, equipped with sophisticated sensors and communication modules capable of detecting various threats, including fire hazards, gunshots, and gas leaks. These devices instantaneously transmit critical information to the central network. The system also incorporates user-activated alert stations, enabling manual alert triggering during emergencies. The software component features a mobile application that facilitates real-time location sharing for students as they navigate the campus.
 
 A key innovation of SAFE is its AI-powered emergency response system. When users initiate emergency calls through either the hardware stations or the mobile app, they interact with an artificial intelligence system designed to efficiently gather and process critical information. This approach ensures consistent and thorough data collection while mitigating the workload on human dispatchers who often face high stress and fatigue. By seamlessly integrating state-of-the-art technology with a user-centric design, SAFE aims to substantially enhance campus safety protocols. The system provides students with timely, actionable information and significantly improves UC Berkeley's overall emergency response capabilities.
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="FSR Setup" src="assets/Safe logo.png">
+</div>
 
 ## Motivation
 
