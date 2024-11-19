@@ -24,6 +24,69 @@ To improve the quality of life.
 [week 9](README.md#week-9-experimenting-with-llms),
 [week 10](README.md#week-10-LLM-that-enhances-my-portfolio),
 [week 11](README.md#week-11-Reflections-On-Projects-2-and-3),
+[week 12](README.md#week-12-Safe-Version-2),
+
+---------------------------------------------------------------------------------------------------------
+
+# Week 12: Safe Version 2
+## Week of 11/18/2024
+
+#### Diagram Analysis
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="FSR Setup" src="assets/15.jpg">
+</div>
+
+## Summary
+
+SAFE (Safety Alert for Emergency) is a cutting-edge integrated safety system engineered to bolster the security and well-being of UC Berkeley students. This initiative addresses the shortcomings of the existing manual Warn Me system, which frequently experiences notification delays regarding potential campus hazards or incidents. SAFE leverages advanced hardware and software technologies to deliver real-time, location-specific alerts and optimize emergency response protocols.
+
+The hardware infrastructure of SAFE comprises strategically deployed devices across campus, equipped with sophisticated sensors and communication modules capable of detecting various threats, including fire hazards, gunshots, and gas leaks. These devices instantaneously transmit critical information to the central network. The system also incorporates user-activated alert stations, enabling manual alert triggering during emergencies. The software component features a mobile application that facilitates real-time location sharing for students as they navigate the campus.
+
+A key innovation of SAFE is its AI-powered emergency response system. When users initiate emergency calls through either the hardware stations or the mobile app, they interact with an artificial intelligence system designed to efficiently gather and process critical information. This approach ensures consistent and thorough data collection while mitigating the workload on human dispatchers who often face high stress and fatigue. By seamlessly integrating state-of-the-art technology with a user-centric design, SAFE aims to substantially enhance campus safety protocols. The system provides students with timely, actionable information and significantly improves UC Berkeley's overall emergency response capabilities.
+
+## Motivation
+
+This process enhances core software development competencies in Photon, Google Maps APIs, OLED screens, LLMs, app development, and sensor/actuator integration. Creating a system that seamlessly connects hardware sensors with a software application provides valuable experience in IoT technologies and hardware-software interfacing, offering practical insights into complex system architectures and real-world application of cutting-edge technologies in campus safety and emergency response systems.
+
+## Research Plan
+- Integrate a microphone (MAX9814) for Gunshot Detection and use Edge ML to train the system to distinguish Gunshot sounds from other loud noises.
+- Integrate Gas Sensor (ENS160) for  improved Gas/Alcohol Detection
+- Train AI for emergency conversations with AI agents
+- Build an app interface for navigating and situational visualization
+- Build an intuitive signal input/button to send a distress signal or connect with the emergency AI agent
+
+## Challenge Level
+
+CHALLENGE LEVEL : AXOLOTL
+
+Building upon Project 2's foundation, we are executing a comprehensive overhaul, reimagining the format and integrating mobile application technology, Large Language Models (LLMs), and artificial intelligence into the system. Several critical challenges persist, including the development of a robust AI model for accurate gunshot detection and the implementation of reliable gas sensing mechanisms. The creation of a functional mobile application represents uncharted territory for our team. While we possess experience in interface design using Figma, the transition from conceptual designs to a fully operational application capable of transmitting and receiving location data presents a significant technical challenge.
+
+Shryas will be working on making the device talk to AI with OLED display & microphone to send the data to servers.
+
+## Current Work
+
+- Combining data from diverse sensors (loudness, gas, button) while ensuring they work together seamlessly.
+- The BME688 sensor's gas readings and loudness sensor data can fluctuate due to changing environmental conditions.
+- Setting up secure and reliable communication between the Photon 2 and the Google Maps API through the Particle Cloud.
+- The Gas Sensor had trouble accurately detecting nearby alcohol levels.
+
+## Time Line
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="FSR Setup" src="assets/15.jpg">
+</div>
+
+## Speculation
+1. **Integration with Existing Systems**: Collaborating with campus security to integrate the Safe system with existing alert mechanisms could create a more comprehensive safety network.
+
+2. **Expanded Sensor Array**: Adding more types of sensors (e.g., air quality, radiation) could broaden the system's capability to detect various environmental hazards.
+
+## Conclusion
+- The "Warn Me" Zone alert system successfully detects hazardous areas using gunshot, gas leak sensors, and a manual alert button, providing real-time danger zone coordinates.
+- LEDs and vibrating motors serve as clear, effective indicators to alert students when they are near or inside a danger zone.
+- The system combines sensory technology and simple feedback mechanisms to ensure immediate awareness of potential threats.
+- This design enhances student safety by offering a practical, responsive solution to detect various emergencies on campus.
+- With further development, the system can be adapted for broader safety applications and improve emergency response protocols.
 
 ---------------------------------------------------------------------------------------------------------
 
