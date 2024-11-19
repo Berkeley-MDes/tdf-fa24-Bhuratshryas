@@ -33,7 +33,7 @@ To improve the quality of life.
 
 #### Diagram Analysis
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img width="50%" alt="FSR Setup" src="assets/15.jpg">
+    <img width="50%" alt="FSR Setup" src="assets/Safe logo.png">
 </div>
 
 ## Summary
@@ -45,6 +45,10 @@ The hardware infrastructure of SAFE comprises strategically deployed devices acr
 A key innovation of SAFE is its AI-powered emergency response system. When users initiate emergency calls through either the hardware stations or the mobile app, they interact with an artificial intelligence system designed to efficiently gather and process critical information. This approach ensures consistent and thorough data collection while mitigating the workload on human dispatchers who often face high stress and fatigue. By seamlessly integrating state-of-the-art technology with a user-centric design, SAFE aims to substantially enhance campus safety protocols. The system provides students with timely, actionable information and significantly improves UC Berkeley's overall emergency response capabilities.
 
 ## Motivation
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="FSR Setup" src="assets/Safe 2.png">
+</div>
 
 This process enhances core software development competencies in Photon, Google Maps APIs, OLED screens, LLMs, app development, and sensor/actuator integration. Creating a system that seamlessly connects hardware sensors with a software application provides valuable experience in IoT technologies and hardware-software interfacing, offering practical insights into complex system architectures and real-world application of cutting-edge technologies in campus safety and emergency response systems.
 
@@ -73,7 +77,7 @@ Shryas will be working on making the device talk to AI with OLED display & micro
 ## Time Line
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img width="50%" alt="FSR Setup" src="assets/15.jpg">
+    <img width="50%" alt="FSR Setup" src="assets/Safe.png">
 </div>
 
 ## Speculation
