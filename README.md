@@ -45,10 +45,6 @@ A key innovation of SAFE is its AI-powered emergency response system. When users
 
 ## Motivation
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img width="50%" alt="FSR Setup" src="assets/Safe 2.png">
-</div>
-
 This process enhances core software development competencies in Photon, Google Maps APIs, OLED screens, LLMs, app development, and sensor/actuator integration. Creating a system that seamlessly connects hardware sensors with a software application provides valuable experience in IoT technologies and hardware-software interfacing, offering practical insights into complex system architectures and real-world application of cutting-edge technologies in campus safety and emergency response systems.
 
 ## Research Plan
