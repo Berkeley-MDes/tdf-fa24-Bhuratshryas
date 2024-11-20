@@ -31,7 +31,7 @@ To improve the quality of life.
 # Week 12: Safe Version 2
 ## Week of 11/18/2024
 
-## Summary
+## Reflection
 
 SAFE (Safety Alert for Emergency) is a cutting-edge integrated safety system engineered to bolster the security and well-being of UC Berkeley students. This initiative addresses the shortcomings of the existing manual Warn Me system, which frequently experiences notification delays regarding potential campus hazards or incidents. SAFE leverages advanced hardware and software technologies to deliver real-time, location-specific alerts and optimize emergency response protocols.
 
