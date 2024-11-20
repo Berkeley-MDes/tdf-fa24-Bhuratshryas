@@ -45,6 +45,10 @@ A key innovation of SAFE is its AI-powered emergency response system. When users
 
 ## Motivation
 
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="FSR Setup" src="assets/graphic.png">
+</div>
+
 This process enhances core software development competencies in Photon, Google Maps APIs, OLED screens, LLMs, app development, and sensor/actuator integration. Creating a system that seamlessly connects hardware sensors with a software application provides valuable experience in IoT technologies and hardware-software interfacing, offering practical insights into complex system architectures and real-world application of cutting-edge technologies in campus safety and emergency response systems.
 
 ## Research Plan
@@ -60,7 +64,12 @@ CHALLENGE LEVEL : AXOLOTL
 
 Building upon Project 2's foundation, we are executing a comprehensive overhaul, reimagining the format and integrating mobile application technology, Large Language Models (LLMs), and artificial intelligence into the system. Several critical challenges persist, including the development of a robust AI model for accurate gunshot detection and the implementation of reliable gas sensing mechanisms. The creation of a functional mobile application represents uncharted territory for our team. While we possess experience in interface design using Figma, the transition from conceptual designs to a fully operational application capable of transmitting and receiving location data presents a significant technical challenge.
 
-Shryas will be working on making the device talk to AI with OLED display & microphone to send the data to servers.
+
+Shryas will be working on making the device talk to AI with OLED display & microphone to send the data to servers (Purple Part). Where LLMs will be able to interact with a person, store data and get responses on the same.
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="FSR Setup" src="assets/map.png">
+</div>
 
 ## Current Work
 
