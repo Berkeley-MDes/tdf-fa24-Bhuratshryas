@@ -37,7 +37,7 @@ To improve the quality of life.
 ## Images
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img width="50%" alt="FSR Setup" src="assets/Safe logo.png">
+    <img width="50%" alt="FSR Setup" src="assets/">
 </div>
 
 ## Diagrams
