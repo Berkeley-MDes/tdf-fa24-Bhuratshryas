@@ -25,6 +25,27 @@ To improve the quality of life.
 [week 10](README.md#week-10-LLM-that-enhances-my-portfolio),
 [week 11](README.md#week-11-Reflections-On-Projects-2-and-3),
 [week 12](README.md#week-12-Safe-Version-2),
+[week 14](README.md#week-14-Vibe-Way),
+
+---------------------------------------------------------------------------------------------------------
+
+# Week 14: Vibe Way
+## Week of 12/5/2024
+
+## Reflection
+
+## Images
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="FSR Setup" src="assets/Safe logo.png">
+</div>
+
+## Diagrams
+
+## Speculation
+
+## Conclusion
+
 
 ---------------------------------------------------------------------------------------------------------
 
