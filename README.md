@@ -71,16 +71,11 @@ Our system architecture combines hardware and software components ingeniously. W
 
 ## Experimentation
 
-UV Sensor Testing: This will help with reliable tracking and feedback.
+UV Sensor Testing: This will help with reliable tracking and feedback. Vibration Feedback Calibration: We're working to determine optimal vibration patterns for clear directional cues.
+
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="50%" alt="FSR Setup" src="assets/12 E.gif">
-</div>
-
-Vibration Feedback Calibration: We're working to determine optimal vibration patterns for clear directional cues.
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img width="50%" alt="FSR Setup" src="assets/12.png">
 </div>
 
 GPS Accuracy Testing: Ensuring reliable location tracking and route guidance is crucial for our system's success.
