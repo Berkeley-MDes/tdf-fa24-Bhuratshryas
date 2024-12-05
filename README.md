@@ -34,7 +34,7 @@ To improve the quality of life.
 
 ## Reflection
 
-The Vibeway Haptic Navigation Device for the Visually Impaired is an innovative project that addresses a critical challenge faced by visually impaired individuals: navigating busy environments safely and independently. By embedding haptic feedback technology into shoes, the project offers a discreet and intuitive solution that empowers users to rely less on traditional aids like canes or external assistance. The use of vibration motors, GPS modules, and a mobile application demonstrates a thoughtful integration of hardware and software to create a user-centered assistive technology.
+We made a Pivot from Safe 2 to Vibeway, looking at the functionality limitations of Photon. The Vibeway Haptic Navigation Device for the Visually Impaired is an innovative project that addresses a critical challenge faced by visually impaired individuals: navigating busy environments safely and independently. By embedding haptic feedback technology into shoes, the project offers a discreet and intuitive solution that empowers users to rely less on traditional aids like canes or external assistance. The use of vibration motors, GPS modules, and a mobile application demonstrates a thoughtful integration of hardware and software to create a user-centered assistive technology.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img width="50%" alt="FSR Setup" src="assets/12 B.png">
