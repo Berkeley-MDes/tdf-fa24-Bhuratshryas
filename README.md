@@ -36,19 +36,64 @@ To improve the quality of life.
 
 The Vibeway Haptic Navigation Device for the Visually Impaired is an innovative project that addresses a critical challenge faced by visually impaired individuals: navigating busy environments safely and independently. By embedding haptic feedback technology into shoes, the project offers a discreet and intuitive solution that empowers users to rely less on traditional aids like canes or external assistance. The use of vibration motors, GPS modules, and a mobile application demonstrates a thoughtful integration of hardware and software to create a user-centered assistive technology.
 
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="FSR Setup" src="assets/12 B.png">
+</div>
+
 Our team’s focus on real-time directional cues through vibrations highlights the importance of providing immediate and clear feedback to users. The experimentation plan, which includes vibration feedback calibration, GPS accuracy testing, and wearable fabrication, reflects a commitment to ensuring the device is both functional and comfortable. This approach not only emphasizes technical precision but also prioritizes user experience, which is crucial for the adoption of assistive technologies.
 
 ## Diagrams
 
+### Design Considerations
+- Ergonomics: The shoes are designed for comfort, ensuring that users can wear them for extended periods without discomfort.
+- Component Placement: All hardware components are strategically placed within the shoe to maintain balance, minimize bulk, and protect against external damage.
+- Durability: Materials used in fabrication are selected for their ability to withstand daily wear and tear while maintaining functionality.
+
+### Components:
+- Vibration Motors: Embedded in both shoes to provide directional feedback through vibrations.
+- GPS Module: Determines the user's current location and desired route.
+- Microcontroller: Processes data from the GPS and controls the vibration motors.
+
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img width="50%" alt="FSR Setup" src="assets/">
+    <img width="50%" alt="FSR Setup" src="assets/12 A.png">
 </div>
 
-## Testing with Images attached
+Our system architecture combines hardware and software components ingeniously. We've equipped shoes with vibration motors in both soles, connected to a microcontroller that processes data from a GPS module. This setup allows for precise directional guidance, with vibrations indicating when and where to turn.
 
-UV Sensor in test
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="FSR Setup" src="assets/12.png">
+</div>
 
-Designing the shoe
+1. Data Sensing: The GPS module captures location data.
+2. Data Processing: Microcontroller processes location data and determines navigation instructions.
+3. Cue Generation: The microcontroller activates vibration motors based on navigation instructions.
+4. Output: Vibration motors provide directional cues to the user.
+
+## Experimentation
+
+UV Sensor Testing: This will help with reliable tracking and feedback.
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="FSR Setup" src="assets/12 E.gif">
+</div>
+
+Vibration Feedback Calibration: We're working to determine optimal vibration patterns for clear directional cues.
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="FSR Setup" src="assets/12.png">
+</div>
+
+GPS Accuracy Testing: Ensuring reliable location tracking and route guidance is crucial for our system's success.
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="FSR Setup" src="assets/12 D.jpeg">
+</div>
+
+Fabrication and Testing: We're focusing on creating reliable and economical devices that users can wear comfortably
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="FSR Setup" src="assets/12 B.png">
+</div>
 
 Placement of components
 
@@ -61,6 +106,10 @@ Looking forward, this project has the potential to significantly impact the live
 Expanded Sensory Feedback: The device could be developed to convey more complex environmental information through varied vibration patterns, such as identifying specific landmarks or warning about dynamic obstacles like moving vehicles.
 - Personalization Through AI: Incorporating machine learning could allow the system to adapt to individual walking patterns and preferences over time, improving accuracy and user satisfaction.
 - Broader Applications: While designed for visually impaired individuals, this technology could also benefit other groups, such as elderly individuals or those with cognitive impairments who require navigation assistance.
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="FSR Setup" src="assets/12 C.png">
+</div>
 
 The success of this project could also pave the way for further research into integrating assistive technologies with emerging innovations like autonomous vehicles or augmented reality systems.
 
