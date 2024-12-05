@@ -97,14 +97,16 @@ Placement of components
 
 Looking forward, this project has the potential to significantly impact the lives of visually impaired individuals and inspire advancements in wearable assistive technology. As the device evolves, several possibilities emerge:
 
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img width="50%" alt="FSR Setup" src="assets/12 C.png">
+</div>
+
 - Enhanced Interaction with Smart Cities: Future versions could integrate with smart city infrastructure, providing users with real-time updates about their surroundings, such as traffic patterns or construction zones.
 Expanded Sensory Feedback: The device could be developed to convey more complex environmental information through varied vibration patterns, such as identifying specific landmarks or warning about dynamic obstacles like moving vehicles.
 - Personalization Through AI: Incorporating machine learning could allow the system to adapt to individual walking patterns and preferences over time, improving accuracy and user satisfaction.
 - Broader Applications: While designed for visually impaired individuals, this technology could also benefit other groups, such as elderly individuals or those with cognitive impairments who require navigation assistance.
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img width="50%" alt="FSR Setup" src="assets/12 C.png">
-</div>
+
 
 The success of this project could also pave the way for further research into integrating assistive technologies with emerging innovations like autonomous vehicles or augmented reality systems.
 
